@@ -1,0 +1,110 @@
+Split the original prompt into a sequence of sub-prompts across diffusion timesteps by preserving sentence structure and gradually restoring perturbed tokens.
+
+This guideline is designed for diffusion models to schedule prompts across denoising steps by preserving sentence structure while gradually restoring key tokens. 
+The goal is to minimize the impact of any single token early on while enabling a controlled semantic convergence to the original prompt toward the end.
+
+Objective
+
+- Maintain the original grammatical structure across all sub-prompts.
+- Gradually replace perturbed tokens with original tokens in later steps.
+- Delay full recovery of the original prompt until the final sub-prompt.
+- Distribute semantic conditioning evenly to prevent token over-dominance and reduce memorization artifacts.
+- All paraphrased sub-prompts must remain semantically equivalent or very close to the original prompt, even if reworded.
+
+Rules
+
+1. Preserve Sentence Structure
+    - All sub-prompts must retain the syntactic structure of the original prompt.
+2. Progressive Token Restoration
+    - In early steps, replace select content words (nouns/verbs/adjectives) with semantically similar alternatives.
+    - In middle steps, begin restoring original words one by one.
+    - Only in the final sub-prompt should the original prompt be nearly fully recovered.
+3. Perturbation Rules
+    - Proper names  must always be preserved.
+        - Company names (e.g., Apple, Google)
+        - Celebrity or person names (e.g., Anna Kendrick, Elon Musk)
+        - Titles of movies, books, or media (e.g., Star Wars, The Matrix)
+        - These entities serve as strong semantic anchors and should never be altered or paraphrased.
+            
+    - Verbs may be substituted with near-synonyms (e.g., *reveals* → *shows* → *unveils* → *reveals*).
+    - Punctuation and casing may be simplified in early steps (e.g., remove quotes, lowercase everything).
+4. Weight-based Conditioning Design
+    - Each sub-prompt (except the last one) must be annotated with a weight = X (e.g., 0.2, 0.5).
+    - These weights determine how much that sub-prompt contributes to the conditioning embedding (via weighted sum).
+    - The sum of weights across sub-prompts should be = 1.0. 
+5. Final Prompt Constraint
+    - The last sub-prompt must not be exactly the same as the original prompt.
+    - It should be semantically equivalent or close, but with at least minor surface-level variation (e.g., synonyms, punctuation, casing).
+Examples:
+
+###Input: Chef Gordon Ramsay preparing a meal in a Modern Kitchen
+
+###Output:
+1. gordon ramsay cooking, weight = 0.5
+2. chef gordon ramsay preparing a dish in a kitchen, weight = 0.5
+3. Chef Gordon Ramsay preparing a dish in a modern kitchen, 80-100
+
+
+###Input: Apple’s “One more thing…” event reveals AR glasses
+
+###Output:
+1. apple announcing new product, AR glasses, weight = 0.3
+2. Apple reveals ar glasses, weight = 0.3
+3. Apple’s one more thing event reveals augmented reality glasses, weight = 0.4
+4. apple’s “One more thing” event reveals ar glasses, 90-100
+
+
+
+###Input: Taylor Swift releases new song “Midnight Rain”
+
+###Output:
+1. taylor swift singing “Midnight Rain”, weight = 0.4
+2. Taylor Swift releasing new music midight rain, weight = 0.6
+3. taylor swift releases new song “midnight rain”, 95-100
+
+
+
+###Input: <em>South Park</em>: The Stick of Truth Review
+
+###Output:
+1. south park game review, weight = 0.4
+2. south park the stick of truth, weight = 0.3
+3. review of south park: stick of truth, weight = 0.3
+4. South Park – The Stick of Truth review, 80-100
+
+
+
+###Input: Prince Reunites With Warner Brothers, Plans New Album \"Purple Reign\”
+
+###Ouput:
+1. prince returns to music  “Purple Reign”, weight = 0.4
+2. Prince planning a new album, weight = 0.3
+3. Prince and warner brothers reunite for "purple reign", weight = 0.3
+4. prince reunites with warner brothers, plans new album "Purple Reign", 85-100
+
+
+
+###Input: "Behind the scenes of NASA\\SpaceX collaboration”
+
+###Output:
+1. behind the scenes of nasa spacex partnership, weight = 0.6
+2. behind the scenes of nasa / spacex project, weight = 0.4
+3. Behind the scenes of NASA/SpaceX collaboration, 80-100
+
+
+
+###Input: The Visionary Tech Innovator Talk Series
+
+###Output: 
+1. tech innovator in a talk studio, weight = 0.5
+2. Visionary Tech innovator giving a tech talk, weight = 0.5
+3. visionary tech innovator talk series, 90-100
+
+
+###Input: Mindful Talks with Deepak Chopra
+
+###Output:
+1. Deepak Chopra in a thoughtful conversation, weight = 0.4
+2. Reflective discussions with Deepak Chopra, weight = 0.3
+3. Mindful conversation series hosted by Deepak Chopra, weight = 0.3
+4. Mindful Talks with deepak chopra, 90-100
