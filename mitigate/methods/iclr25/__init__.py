@@ -22,9 +22,11 @@ class ICLR25(MitigationMethod):
         json_path = os.path.join(dirname, "flipd_perturbations.json")
         self.prompt_map = json.load(open(json_path))
 
-    def mitigate(self, prompt, num_inference_steps, seed):
+    def mitigate(self, prompt, num_inference_steps, seed, num_words=1):
         gen = torch.Generator(device=self.device).manual_seed(seed)
-        perturbed_prompt = self.prompt_map[prompt]["1"][0]["perturbed_prompt"]
+        perturbed_prompt = self.prompt_map[prompt][str(num_words)][0][
+            "perturbed_prompt"
+        ]
         image = self.pipe(
             perturbed_prompt,
             num_inference_steps=num_inference_steps,

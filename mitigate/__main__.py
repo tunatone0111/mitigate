@@ -2,6 +2,7 @@ import os
 from typing import Literal
 
 import fire
+import tqdm
 from dotenv import load_dotenv
 
 from .methods import CVPR25, ICLR24, ICLR25, Ours
@@ -9,7 +10,18 @@ from .prompts import load_prompts
 
 
 def main(
-    method: Literal["ours", "cvpr25", "iclr25", "iclr24", "random"],
+    method: Literal[
+        "ours",
+        "cvpr25",
+        "iclr25",
+        "iclr25-2",
+        "iclr25-3",
+        "iclr25-4",
+        "iclr25-6",
+        "iclr25-8",
+        "iclr24",
+        "random",
+    ],
     num_inference_steps=100,
     seed=42,
     dataset: Literal["match_verbatim", "memorized_500"] = "match_verbatim",
@@ -35,6 +47,16 @@ def main(
         mitigation = CVPR25()
     elif method == "iclr25":
         mitigation = ICLR25()
+    elif method == "iclr25-2":
+        mitigation = ICLR25(num_words=2)
+    elif method == "iclr25-3":
+        mitigation = ICLR25(num_words=3)
+    elif method == "iclr25-4":
+        mitigation = ICLR25(num_words=4)
+    elif method == "iclr25-6":
+        mitigation = ICLR25(num_words=6)
+    elif method == "iclr25-8":
+        mitigation = ICLR25(num_words=8)
     elif method == "iclr24":
         mitigation = ICLR24()
     elif method == "random":
@@ -44,7 +66,7 @@ def main(
 
     prompts = load_prompts(dataset, offset, limit)
 
-    for i, prompt in enumerate(prompts):
+    for i, prompt in tqdm.tqdm(enumerate(prompts), total=len(prompts)):
         image = mitigation.mitigate(prompt, num_inference_steps, seed)
         image.save(os.path.join(output_dir, f"{offset + i:03d}_seed{seed}.png"))
 
