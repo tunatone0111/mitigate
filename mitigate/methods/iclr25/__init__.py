@@ -8,7 +8,7 @@ from ..mitigation_method import MitigationMethod
 
 
 class ICLR25(MitigationMethod):
-    def __init__(self):
+    def __init__(self, num_words=1):
         super().__init__()
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         model_id = "CompVis/stable-diffusion-v1-4"
@@ -21,10 +21,11 @@ class ICLR25(MitigationMethod):
         dirname = os.path.dirname(__file__)
         json_path = os.path.join(dirname, "flipd_perturbations.json")
         self.prompt_map = json.load(open(json_path))
+        self.num_words = num_words
 
-    def mitigate(self, prompt, num_inference_steps, seed, num_words=1):
+    def mitigate(self, prompt, num_inference_steps, seed):
         gen = torch.Generator(device=self.device).manual_seed(seed)
-        perturbed_prompt = self.prompt_map[prompt][str(num_words)][0][
+        perturbed_prompt = self.prompt_map[prompt][str(self.num_words)][0][
             "perturbed_prompt"
         ]
         image = self.pipe(
