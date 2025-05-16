@@ -70,11 +70,16 @@ def main(
     prompts = load_prompts(dataset, offset, limit)
 
     for i, prompt in tqdm.tqdm(enumerate(prompts), total=len(prompts)):
+        path_name = os.path.join(output_dir, f"{offset + i:03d}_seed{seed}.png")
+
+        if os.path.exists(path_name):
+            continue
+
         if method == "ours-gpt-only":
             image = mitigation.mitigate(prompt, num_inference_steps, seed)
         else:
             image = mitigation.mitigate(prompt, num_inference_steps, seed)
-            image.save(os.path.join(output_dir, f"{offset + i:03d}_seed{seed}.png"))
+            image.save(path_name)
 
 
 if __name__ == "__main__":
