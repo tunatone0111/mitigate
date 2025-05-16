@@ -1,0 +1,4 @@
+1. waterford fabric pattern, weight = 0.4  
+2. Waterford's sand silk stripe design, weight = 0.3  
+3. Silk stripe swatch by Waterford, weight = 0.3  
+4. Waterford sand silk stripe swatch, 85-100  

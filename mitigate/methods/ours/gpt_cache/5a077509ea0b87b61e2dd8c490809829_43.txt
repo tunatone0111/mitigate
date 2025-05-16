@@ -1,0 +1,4 @@
+1. shaw floors product showcase, weight = 0.4  
+2. Shaw Floors awesome 4 linen product, weight = 0.3  
+3. Shaw Floors SFA awesome linen 00104 E0741, weight = 0.3  
+4. Shaw Floors SFA awesome 4 linen 00104_E0741, 85-100  

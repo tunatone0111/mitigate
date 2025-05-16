@@ -1,0 +1,4 @@
+1. move or be moved t-shirt, weight = 0.4  
+2. unisex tee with "move or you will be moved" phrase, weight = 0.3  
+3. "move or be moved" unisex t-shirt, weight = 0.3  
+4. move or you'll be moved unisex tee, 90-100  

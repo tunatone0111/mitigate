@@ -1,0 +1,4 @@
+1. area rug by andover mills, weight = 0.4  
+2. smithtown latte rug from andover mills, weight = 0.3  
+3. Smithtown Latte area rug by Andover Mills, weight = 0.3  
+4. smithtown latte area rug by andover mills, 90-100  

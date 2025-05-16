@@ -1,0 +1,4 @@
+1. inspiring message on a cushion, weight = 0.4  
+2. motivational phrase on a throw pillow, weight = 0.3  
+3. decorative pillow with "be the change" written, weight = 0.3  
+4. Be The Change throw pillow, 85-100  

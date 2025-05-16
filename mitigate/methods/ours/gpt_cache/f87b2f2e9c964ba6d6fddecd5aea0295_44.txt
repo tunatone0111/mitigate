@@ -1,0 +1,4 @@
+1. new story by f. scott fitzgerald found and published, weight = 0.3  
+2. F. Scott Fitzgerald tale rediscovered 76 years on, weight = 0.3  
+3. long-lost story by F. Scott Fitzgerald found and released, weight = 0.4  
+4. long-lost F. Scott Fitzgerald story rediscovered and published after 76 years, 90-100  

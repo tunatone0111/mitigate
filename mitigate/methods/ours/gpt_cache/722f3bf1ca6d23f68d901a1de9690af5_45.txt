@@ -1,0 +1,4 @@
+1. Shaw Floors showcasing new flooring, weight = 0.3  
+2. Shaw Floors reveals all star weekend flooring, weight = 0.3  
+3. Shaw Floors presents All Star Weekend III Net Royal Purple flooring, weight = 0.4  
+4. Shaw Floors all star weekend iii net royal purple 00902_E0773, 85-100  

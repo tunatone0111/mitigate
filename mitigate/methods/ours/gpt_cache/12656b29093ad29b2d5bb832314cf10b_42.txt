@@ -1,0 +1,4 @@
+1. shaw floors product, cashmere carpets, weight = 0.4  
+2. Shaw's Caress carpets by shaw cashmere, weight = 0.3  
+3. Shaw floors caress by shaw cashmere, weight = 0.3  
+4. shaw floors caress by shaw, cashmere iii lg pacific, 90-100  

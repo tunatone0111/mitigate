@@ -1,0 +1,4 @@
+1. first episode of a comedy show, weight = 0.4  
+2. watch episode one of Garfunkel and Oates, weight = 0.3  
+3. watching Garfunkel and Oates first episode, weight = 0.3  
+4. Watch the premiere episode of Garfunkel and Oates, 85-100  

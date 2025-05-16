@@ -1,0 +1,4 @@
+1. emma watson acting in disney film, weight = 0.4  
+2. Emma Watson to portray Belle in a Disney movie, weight = 0.3  
+3. Emma Watson cast as Belle in Disney's "Beauty and the Beast", weight = 0.3  
+4. emma watson to play belle in disney's beauty and the beast, 85-100  

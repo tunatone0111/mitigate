@@ -1,0 +1,4 @@
+1. entrance colored in a soft green, weight = 0.5  
+2. main entryway painted in a khaki hue, weight = 0.3  
+3. foyer painted in a khaki shade, weight = 0.2  
+4. foyer painted in khaki, 90-100  

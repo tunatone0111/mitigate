@@ -1,0 +1,4 @@
+1. golden girls funny moments quotes, weight = 0.4  
+2. Classic Golden Girls memes and quotes, weight = 0.3  
+3. timeless golden girls memes and famous sayings, weight = 0.3  
+4. 25 timeless golden girls memes and quotables, 85-100

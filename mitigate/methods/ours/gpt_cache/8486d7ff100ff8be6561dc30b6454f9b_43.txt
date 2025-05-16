@@ -1,0 +1,4 @@
+1. charlton home area rug, weight = 0.4  
+2. susan blue rug by charlton home, weight = 0.3  
+3. Blue Susan rug by Charlton Home, weight = 0.3  
+4. Susan Blue Area Rug by Charlton Home, 90-100

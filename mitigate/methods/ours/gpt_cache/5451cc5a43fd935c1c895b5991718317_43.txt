@@ -1,0 +1,9 @@
+Sure, here's how we can break down the prompt:
+
+### Input: Pencil pleat curtains in collection Panama Cotton, fabric: 702-34
+
+### Output:
+1. pleated curtains in panama cotton fabric, weight = 0.4
+2. pencil pleat curtains from panama collection with fabric code 702-34, weight = 0.3
+3. pencil pleat curtains in Panama Cotton collection, fabric 702-34, weight = 0.3
+4. Pencil pleat curtains in collection Panama Cotton, fabric 702-34, 85-100

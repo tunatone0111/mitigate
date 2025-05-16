@@ -1,0 +1,4 @@
+1. shaw flooring choice cappuccino, weight = 0.4
+2. Shaw Floors choice ii cappuccino flooring, weight = 0.3
+3. Shaw Floors My Choice Cappuccino style, weight = 0.3
+4. Shaw Floors My Choice II Cappuccino 00756_E0651, 85-100

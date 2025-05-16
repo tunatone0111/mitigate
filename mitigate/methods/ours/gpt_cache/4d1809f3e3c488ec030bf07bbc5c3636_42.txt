@@ -1,0 +1,4 @@
+1. watch new tv episode of garfunkel and oates, weight = 0.4  
+2. watch the debut episode of garfunkel and oates, weight = 0.3  
+3. Tune in to the premiere episode of Garfunkel & Oates, weight = 0.3  
+4. Watch the first episode of garfunkel and oates, 85-100 

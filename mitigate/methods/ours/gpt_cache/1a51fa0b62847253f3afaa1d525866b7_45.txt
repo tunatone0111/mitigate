@@ -1,0 +1,4 @@
+1. Organika lavender phone cover, weight = 0.4  
+2. Organika lavender phone case accessory, weight = 0.3  
+3. Organika lavender phone case - phone cover - phone accessory, weight = 0.3  
+4. MMORE Organika lavender phone case - phone cover - phone accessories, 85-100  

@@ -1,0 +1,4 @@
+1. shaw floors hosting a gathering, weight = 0.4  
+2. Shaw Floors value collections, dinner event with companions, weight = 0.3  
+3. Shaw Floors Fyc Tt ii Net dining with acquaintances, weight = 0.3  
+4. shaw floors value collections fyc tt ii dinner with friends, 85-100  

@@ -1,0 +1,4 @@
+1. phone covers with heartwarming message, weight = 0.4
+2. phone cases featuring a "you make my heart smile" quote, weight = 0.3
+3. 'you make my heart smile' message on phone cases, weight = 0.3
+4. Phone cases with the quote 'You Make My Heart Smile', 90-100

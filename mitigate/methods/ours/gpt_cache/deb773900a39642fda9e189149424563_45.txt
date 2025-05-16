@@ -1,0 +1,4 @@
+1. aero series wheel, green, weight = 0.3
+2. Aero 31 wheel, spun design, weight = 0.3
+3. Aero 31-984040GRN series 13x8 wheel, spun, 4 on 4 bolt pattern, weight = 0.2
+4. Aero 31-984040GRN 31 Series 13x8 wheel, spun, 4 on 4 BP, 4 inch backspacing, 85-100

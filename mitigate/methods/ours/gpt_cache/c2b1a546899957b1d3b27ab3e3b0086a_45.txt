@@ -1,0 +1,4 @@
+1. punisher joining daredevil series, weight = 0.4  
+2. Punisher joins daredevil season two, weight = 0.3  
+3. punisher enters daredevil season two, new villain unknown, weight = 0.2  
+4. As Punisher joins *Daredevil* season two, who will the new villain be?, 90-100  

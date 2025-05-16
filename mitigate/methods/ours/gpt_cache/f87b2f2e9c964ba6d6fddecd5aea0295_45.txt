@@ -1,0 +1,4 @@
+1. rediscovered story by famous author published, weight = 0.3  
+2. f. scott fitzgerald's lost story found and published, weight = 0.3  
+3. long-gone f. scott fitzgerald tale uncovered and printed years later, weight = 0.4  
+4. long-lost F. Scott Fitzgerald story rediscovered and published, 76 years later, 90-100  

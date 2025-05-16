@@ -1,0 +1,4 @@
+1. prince returns to music with new album, weight = 0.4  
+2. Prince planning new musical work, weight = 0.3  
+3. Prince and Warner Brothers rejoin for album launch, weight = 0.3  
+4. prince reunites with warner brothers, plans new album, 85-100  

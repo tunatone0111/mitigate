@@ -1,0 +1,4 @@
+1. shaw floors flooring summer wind, weight = 0.4  
+2. Value Collections cabana by Shaw Floors, weight = 0.3  
+3. Shaw Floors value series cabana summer shares, weight = 0.3  
+4. Shaw Floors Value Collections Cabana Life Summer Wind 00251_5E004, 90-100  

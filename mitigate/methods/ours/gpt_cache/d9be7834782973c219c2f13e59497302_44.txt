@@ -1,0 +1,4 @@
+1. a joyful researcher, weight = 0.4  
+2. the joyful scientist, weight = 0.3  
+3. happy scientist, weight = 0.3  
+4. The cheerful scientist, 85-100  

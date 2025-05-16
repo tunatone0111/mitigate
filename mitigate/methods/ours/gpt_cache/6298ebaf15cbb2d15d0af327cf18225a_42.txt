@@ -1,0 +1,4 @@
+1. kitchen painted in bright color, weight = 0.4  
+2. kitchen painted a dazzling shade of green, weight = 0.3  
+3. kitchen painted in vibrant shimmering green, weight = 0.3  
+4. kitchen painted in shimmering green, 85-100  

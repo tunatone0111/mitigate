@@ -1,0 +1,4 @@
+1. examining the cost of craft beer, weight = 0.4  
+2. analyzing the components of a six-pack priced at $12, weight = 0.3  
+3. breaking down the cost in a $12 six-pack of craft beer, weight = 0.3  
+4. analyzing the $12 in your craft beer six-pack, 90-100  

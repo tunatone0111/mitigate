@@ -1,0 +1,4 @@
+1. netflix reaches subscriber milestone, weight = 0.4
+2. Netflix hits major subscriber mark, weight = 0.3
+3. Netflix reaches fifty million users, weight = 0.3
+4. netflix hits 50 million subscribers, 85-100

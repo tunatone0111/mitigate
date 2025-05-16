@@ -1,0 +1,6 @@
+Sure, here is how you can spread out the prompt "The Cabin On The Hill - Throw Pillow" and gradually recompose it over diffusion timesteps:
+
+1. cabin on a hill pillow, weight = 0.4
+2. a throw pillow featuring a cabin on a hill, weight = 0.3
+3. The Cabin On The Hill design on a pillow, weight = 0.3
+4. The Cabin On The Hill - Throw Pillow, 90-100

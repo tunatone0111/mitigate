@@ -1,0 +1,4 @@
+1. floors roll special sugar cookie, weight = 0.3  
+2. Shaw Floors special xy176 in sugar cookie color, weight = 0.3  
+3. Shaw Floors roll special in xy176 sugar cookie, weight = 0.4  
+4. Shaw Floors roll special xy176 sugar cookie 00101_XY176, 80-100  

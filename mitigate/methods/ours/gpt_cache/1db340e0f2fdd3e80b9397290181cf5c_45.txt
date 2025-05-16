@@ -1,0 +1,4 @@
+1. door county locations on cushion, weight = 0.3  
+2. Places in Door County on decorative pillow, weight = 0.4  
+3. Door county sites on blue throw cushion, weight = 0.3  
+4. Places of Door County on blue throw pillow, 85-100  

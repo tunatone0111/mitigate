@@ -1,0 +1,4 @@
+1. brit marling and zal batmanglij new series, weight = 0.3  
+2. brit marling-zal batmanglij drama the oa, weight = 0.3  
+3. The OA series picked up by netflix, weight = 0.2  
+4. brit marling-zal batmanglij drama series <i>the oa</i> picked up by Netflix, 75-100  

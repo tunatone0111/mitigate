@@ -1,0 +1,4 @@
+1. Shaw Floors showcasing marble designs, weight = 0.4
+2. Shaw Floors SFA Awesome marble gray tile, weight = 0.3
+3. Shaw Floors displaying SFA Awesome 6 marble gray, weight = 0.3
+4. Shaw Floors SFA Awesome 6 marble gray 00503_E0745, 85-100

@@ -1,0 +1,4 @@
+1. curtain in linen fabric, weight = 0.4  
+2. pencil pleat curtain in a collection, weight = 0.3  
+3. Pencil pleat curtain in the Linen series, fabric code 392-05, weight = 0.3  
+4. pencil pleat curtain in collection linen, fabric: 392-05, 90-100  

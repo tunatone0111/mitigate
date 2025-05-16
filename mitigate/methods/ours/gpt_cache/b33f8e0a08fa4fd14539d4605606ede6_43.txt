@@ -1,0 +1,4 @@
+1. colbert show ending announced, weight = 0.4  
+2. The Colbert Report nearing its conclusion, weight = 0.3  
+3. announcement for end of the colbert report, weight = 0.3  
+4. the colbert report scheduled for end date, 85-100  

@@ -1,0 +1,4 @@
+1. dunlop winter tire advertisement, weight = 0.3  
+2. Dunlop SP WINTER SPORT 4D tire details, weight = 0.3  
+3. Dunlop SP WINTER SPORT tire, size 225/50 R17 94H, weight = 0.2  
+4. Dunlop SP WINTER SPORT 4D 225/50 R17 94H, (CC70) MO, 80-100  

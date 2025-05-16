@@ -1,0 +1,5 @@
+1. art of city view, eiffel tower, weight = 0.3
+2. artistic paris view under a red sky, weight = 0.3
+3. design piece showcasing paris eiffel tower under a glossy sky, weight = 0.2
+4. artistic interpretation of paris with eiffel tower and red sky, weight = 0.2
+5. design art of the beautiful paris view with eiffel tower under a red sky, ultra glossy cityscape circle wall art, 80-100

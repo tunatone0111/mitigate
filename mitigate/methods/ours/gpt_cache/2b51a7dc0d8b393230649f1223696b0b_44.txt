@@ -1,0 +1,4 @@
+1. flooring product called canyon shadow, weight = 0.3
+2. Shaw Floors Fusion Value product named canyon shadow 00810_E0281, weight = 0.4
+3. Shaw Floors Fusion Value 300 with color canyon shadow 00810_E0281, weight = 0.3
+4. Shaw Floors Fusion Value 300 Canyon Shadow 00810_E0281, 85-100

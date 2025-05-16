@@ -1,0 +1,4 @@
+1. willy wonka witty and sarcastic commentary, weight = 0.5  
+2. Willy Wonka making a clever remark about intelligence, weight = 0.3  
+3. Willy Wonka - oh, you're in IB? enlighten us on your superior intellect, weight = 0.2  
+4. willy wonka - oh, you are in IB? please tell me how much smarter you are than everyone else, 90-100  

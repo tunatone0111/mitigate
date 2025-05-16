@@ -1,0 +1,8 @@
+Certainly, here's a paraphrased sequence adhering to the guidelines:
+
+1. aero 52 series 15x8 inch wheel, 5 on 5 bolt pattern, weight = 0.3
+2. wheel from Aero, part of 52 series, size 15x8 inch, weight = 0.3
+3. 52 series wheels by Aero, 15x8 inch, 5 bolt pattern, 3 inch backspacing, weight = 0.2
+4. Aero 52 series 15x8 inch wheel, 5 on 5 BP, 3" BS IMCA, 80-100
+
+The above sequence breaks down the original prompt into progressively more detailed descriptions, culminating in a nearly complete version of the input while avoiding memorization-triggering phrasing.

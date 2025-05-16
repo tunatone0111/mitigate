@@ -1,0 +1,4 @@
+1. door county locations on a blue pillow, weight = 0.4
+2. Blue pillow showcasing Door County places, weight = 0.3
+3. Door County spots depicted on a blue throw pillow, weight = 0.3
+4. door county places on blue throw pillow, 90-100

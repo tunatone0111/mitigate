@@ -1,0 +1,4 @@
+1. anderson tuftex hardwood flooring, weight = 0.4  
+2. Palo Duro mixed width floor in golden ore, weight = 0.3  
+3. Anderson Tuftex hardwood Palo Duro, weight = 0.3  
+4. Anderson Tuftex Anderson Hardwood Palo Duro mixed width golden ore, 90-100  

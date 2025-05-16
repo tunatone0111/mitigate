@@ -1,0 +1,4 @@
+1. shaw floors displays flooring styles, weight = 0.3  
+2. Shaw Flooring Gallery shows inspired II French fabric, weight = 0.3  
+3. Shaw Gallery Featuring French linen styled flooring, weight = 0.4  
+4. Shaw Floors Shaw Flooring Gallery inspired by II French Linen 00103_5560G, 90-100  

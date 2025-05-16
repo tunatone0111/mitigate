@@ -1,0 +1,4 @@
+1. Shaw Floors showcasing new designs, weight = 0.3  
+2. Shaw Design Center presenting different styles, weight = 0.3  
+3. Shaw Floors Shaw Design displaying different times II 12 silk, weight = 0.2  
+4. Shaw Floors Shaw Design Center different times II 12 silk 00104_5C494, 80-100  

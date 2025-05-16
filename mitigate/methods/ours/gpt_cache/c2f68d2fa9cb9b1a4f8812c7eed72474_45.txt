@@ -1,0 +1,4 @@
+1. business woman podcast discussions, weight = 0.4  
+2. Inspirational chat on business, weight = 0.3  
+3. The No Limits podcast focusing on business women, weight = 0.3  
+4. The No Limits Business Woman podcast, 85-100  

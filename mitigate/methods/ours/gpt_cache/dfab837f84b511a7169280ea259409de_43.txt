@@ -1,0 +1,4 @@
+1. björk talks about removing album from streaming, weight = 0.4  
+2. Björk explains choice to pull vulnicura from a platform, weight = 0.3  
+3. Björk explains decision to pull Vulnicura from spotify, weight = 0.3  
+4. björk explains decision to remove <i>vulnicura</i> from spotify, 85-100  

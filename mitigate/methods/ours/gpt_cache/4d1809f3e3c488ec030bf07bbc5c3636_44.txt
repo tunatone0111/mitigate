@@ -1,0 +1,4 @@
+1. garfunkel and oates tv show episode, weight = 0.4  
+2. first episode of garfunkel and oates, weight = 0.3  
+3. Watch the initial episode of Garfunkel and Oates show, weight = 0.3  
+4. Watch the first episode of Garfunkel and Oates, 85-100  

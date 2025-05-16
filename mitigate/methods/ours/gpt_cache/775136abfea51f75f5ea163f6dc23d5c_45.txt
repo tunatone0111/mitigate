@@ -1,0 +1,4 @@
+1. Front view of a vintage car, weight = 0.4  
+2. Classic automobile front and beautiful design, weight = 0.3  
+3. Beautiful front view of a classic car on throw pillow, weight = 0.3  
+4. Beautiful view of classic car front - throw pillow, 85-100  

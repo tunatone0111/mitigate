@@ -1,0 +1,4 @@
+1. hallway painted in beige, weight = 0.4  
+2. foyer colored in olive hue, weight = 0.3  
+3. entrance hall painted in khaki shade, weight = 0.3  
+4. foyer painted in khaki, 85-100  

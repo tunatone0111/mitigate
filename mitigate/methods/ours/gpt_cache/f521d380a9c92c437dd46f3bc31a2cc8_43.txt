@@ -1,0 +1,4 @@
+1. entryway colored in tan shade, weight = 0.4  
+2. foyer painted with a brown hue, weight = 0.3  
+3. entrance painted in brown bag tint, weight = 0.3  
+4. foyer painted in BROWN BAG, 80-100

@@ -2,6 +2,7 @@ import hashlib
 import json
 import os
 import re
+import time
 
 import requests
 import torch
@@ -47,9 +48,25 @@ def GPT4_Rare2Frequent(prompt, cache_idx, cache_dir, seed):
         "User-Agent": "Apifox/1.0.0 (https://apifox.com)",
         "Content-Type": "application/json",
     }
-    response = requests.request("POST", url, headers=headers, data=payload)
+
+    success = False
+    trial = 0
+
+    while not success and trial < 5:
+        try:
+            response = requests.request("POST", url, headers=headers, data=payload)
+            success = True
+        except Exception as e:
+            print(e)
+            trial += 1
+            time.sleep(10)
+    time.sleep(1)
+
     obj = response.json()
     text = obj["choices"][0]["message"]["content"]
+
+    with open(f"{cache_dir}/{cache_idx}_{seed}.txt", "w") as f:
+        f.write(text)
 
     return text
 
@@ -165,7 +182,7 @@ def sample_weighted_prompt(
 
 
 class Ours(MitigationMethod):
-    def __init__(self):
+    def __init__(self, gpt_only=False):
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
         model_id = "CompVis/stable-diffusion-v1-4"
@@ -177,6 +194,7 @@ class Ours(MitigationMethod):
         )
 
         self.pipe = pipe
+        self.gpt_only = gpt_only
 
     def mitigate(self, prompt, num_inference_steps, seed):
         prompt_hash = hashlib.md5(prompt.encode()).hexdigest()
@@ -186,10 +204,13 @@ class Ours(MitigationMethod):
 
         gpt_output = GPT4_Rare2Frequent(
             prompt,
-            cache_idx=prompt_hash[:10],
+            cache_idx=prompt_hash,
             cache_dir=output_dir,
             seed=seed,
         )
+
+        if self.gpt_only:
+            return
 
         prompts, step_ranges, weights = parse_weighted_prompt_format(gpt_output)
 

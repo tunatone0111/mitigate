@@ -1,0 +1,4 @@
+1. fuse backpack model, weight = 0.4
+2. view 25/31 of FUSE backpack, weight = 0.3
+3. FUSE Backpack 25 model - view 31, weight = 0.3
+4. FUSE Backpack 25 – View 31, 85-100

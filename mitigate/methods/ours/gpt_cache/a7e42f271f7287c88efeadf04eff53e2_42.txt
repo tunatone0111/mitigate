@@ -1,0 +1,4 @@
+1. backpack alpha design, weight = 0.5  
+2. Alpha Convoy backpack model viewing, weight = 0.3  
+3. ALPHA Convoy 320 Backpack overview, weight = 0.2  
+4. Alpha Convoy 320 backpack view 4, 90-100  

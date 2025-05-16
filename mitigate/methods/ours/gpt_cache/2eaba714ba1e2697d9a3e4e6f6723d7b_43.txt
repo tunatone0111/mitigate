@@ -1,0 +1,11 @@
+Sure, here's how we could break down the prompt:
+
+### Input: Shaw Floors Value Collections That's Right Net Sedona 00708_E0925
+
+### Output:
+1. shaw floors value series sedona option, weight = 0.4
+2. Collection by Shaw Floors: Sedona product, weight = 0.3
+3. Shaw floors introduces sedona value collection product, weight = 0.3
+4. Shaw Floors Value Collections That's Right Net Sedona 00708_E0925, 85-100
+
+This sequence of sub-prompts aims to maintain the essence and structure of the original prompt while encouraging more diverse generations by gradually restoring the prompt throughout the diffusion process.

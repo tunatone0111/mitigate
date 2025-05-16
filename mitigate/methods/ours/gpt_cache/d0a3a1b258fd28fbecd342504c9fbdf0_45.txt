@@ -1,0 +1,4 @@
+1. aaron paul in a movie reading, weight = 0.3  
+2. Aaron Paul portraying Luke Skywalker in a performance, weight = 0.3  
+3. Aaron Paul playing Luke Skywalker at LACMA reading, weight = 0.2  
+4. Aaron Paul to play Luke Skywalker at LACMA reading of The Empire Strikes Back, 95-100  

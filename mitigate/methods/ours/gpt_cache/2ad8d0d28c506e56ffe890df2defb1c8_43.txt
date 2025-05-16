@@ -1,0 +1,4 @@
+1. unisex t-shirt on rebranding, weight = 0.4  
+2. I Survived a rebrand design on a gender-neutral shirt, weight = 0.3  
+3. I survived a rebrand unisex shirt, weight = 0.3  
+4. I Survived a Rebrand unisex t-shirt, 85-100  

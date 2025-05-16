@@ -1,0 +1,4 @@
+1. abstract blue art, weight = 0.3  
+2. psychedelic texture artwork on canvas, weight = 0.3  
+3. designart circled blue abstract art on canvas, weight = 0.4  
+4. Designart circled blue psychedelic texture abstract art on canvas - seven panels, 85-100  

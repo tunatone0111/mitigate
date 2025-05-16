@@ -1,0 +1,4 @@
+1. ethan hawke acting in a jazz biopic, weight = 0.3  
+2. Ethan Hawke to portray a jazz legend, weight = 0.3  
+3. Ethan Hawke starring as jazz musician Chet Baker in a new film, weight = 0.4  
+4. ethan hawke to star as jazz great chet baker in biopic, 90-100  

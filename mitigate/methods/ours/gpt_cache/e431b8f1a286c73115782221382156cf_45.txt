@@ -1,0 +1,4 @@
+1. breaking bad enthusiasts contact saul, weight = 0.3  
+2. fans of breaking bad reach saul with albuquerque ad, weight = 0.3  
+3. Breaking Bad viewers can connect with Saul via billboard in Albuquerque, weight = 0.4  
+4. breaking bad fans get a chance to call saul with albuquerque billboard, 85-100  

@@ -1,0 +1,4 @@
+1. freddy adu joins another soccer team, weight = 0.4  
+2. Freddy Adu signs with an unfamiliar football club, weight = 0.3  
+3. Freddy Adu moves to yet another lesser-known club, weight = 0.3  
+4. freddy adu signs for another club you might not know, 85-100  

@@ -1,0 +1,4 @@
+1. flooring from shaw, weight = 0.5  
+2. Shaw brand flooring solutions, weight = 0.3  
+3. Shaw Floors collection, weight = 0.2  
+4. Shaw Floors, 90-100  

@@ -1,0 +1,4 @@
+1. dr. dave discussing wellness, weight = 0.4  
+2. health conversations led by dr. dave, weight = 0.3  
+3. the health mastery café hosted by dr. dave, weight = 0.3  
+4. The Health Mastery Café with Dr. Dave, 90-100  

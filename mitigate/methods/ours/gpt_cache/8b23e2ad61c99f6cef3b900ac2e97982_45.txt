@@ -1,0 +1,4 @@
+1. Shaw Floors presents unique designs, weight = 0.3  
+2. Shaw Floors showcases "Make It Yours" series, weight = 0.4  
+3. Shaw Floors' 'Make It Yours' Dockside 00752_E0819, weight = 0.3  
+4. shaw floors make it yours (s) dockside 00752_E0819, 85-100  

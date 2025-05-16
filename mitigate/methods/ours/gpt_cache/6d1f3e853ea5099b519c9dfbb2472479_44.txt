@@ -1,0 +1,5 @@
+1. Anne Hathaway in sci-fi comedy, weight = 0.3  
+2. Alien invasion comedy featuring Anne Hathaway, weight = 0.3  
+3. Baby shower becomes meteor shower in Anne Hathaway comedy, weight = 0.2  
+4. Anne Hathaway battles aliens in sci-fi comedy <i>The Shower</i>, weight = 0.2  
+5. Baby Shower turned meteor shower: Anne Hathaway fights off aliens in sci-fi comedy <i>The Shower</i>, 85-100  

@@ -1,0 +1,4 @@
+1. group theme cushion, weight = 0.5  
+2. unity-themed decorative pillow, weight = 0.3  
+3. come together - decorative cushion, weight = 0.2  
+4. come together - throw pillow, 80-100  

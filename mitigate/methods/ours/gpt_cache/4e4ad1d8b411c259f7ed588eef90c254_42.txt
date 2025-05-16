@@ -1,0 +1,3 @@
+1. roll top backpack with unique design, weight = 0.4
+2. fuse 25 backpack in view 81, weight = 0.4
+3. FUSE Roll Top Backpack 25, view 81, weight = 0.2

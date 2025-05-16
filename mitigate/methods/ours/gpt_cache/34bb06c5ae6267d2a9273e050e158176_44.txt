@@ -1,0 +1,4 @@
+1. will ferrell and john c. reilly discussed for film project, weight = 0.4  
+2. Will Ferrell, John C. Reilly considering border guards movie, weight = 0.3  
+3. will ferrell and john c. reilly in discussions for Border Guards, weight = 0.3  
+4. Will Ferrell, John C. Reilly in talks for <i>Border Guards</i>, 85-100  

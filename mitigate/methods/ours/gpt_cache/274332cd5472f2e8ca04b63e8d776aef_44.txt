@@ -1,0 +1,3 @@
+1. area rug by bungalow rose, weight = 0.4  
+2. Annabel Green rug from Bungalow Rose, weight = 0.3  
+3. Annabel Green area rug by Bungalow Rose, final refinement, 30-50

@@ -1,0 +1,4 @@
+1. sunny-themed phone case design, weight = 0.5  
+2. bright springtime iphone case with a sunny theme, weight = 0.3  
+3. inspirational message on an iPhone case, weight = 0.2  
+4. Sunshine is the best medicine spring iPhone case, 85-100  

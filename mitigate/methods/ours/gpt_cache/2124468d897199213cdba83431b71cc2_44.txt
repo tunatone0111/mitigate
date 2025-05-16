@@ -1,0 +1,4 @@
+1. unisex t-shirt with bold design, weight = 0.4  
+2. trendy unisex shirt labeled "empowered", weight = 0.3  
+3. empowered statement on unisex t-shirt, weight = 0.3  
+4. EMPOWERED unisex t-shirt, 85-100  

@@ -1,0 +1,4 @@
+1. new flooring called newbern, weight = 0.3  
+2. Shaw Floors introduces crimson carpet style, weight = 0.3  
+3. Shaw Floors Newbern Classic 15' in Crimson, weight = 0.2  
+4. Shaw Floors Newbern Classic 15' Crimson carpet, 55803_E0950, 90-100  

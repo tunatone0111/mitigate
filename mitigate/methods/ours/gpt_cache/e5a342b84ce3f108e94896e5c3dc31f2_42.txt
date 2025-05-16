@@ -1,0 +1,4 @@
+1. barbie featured in iconic artworks, weight = 0.3  
+2. Imagining barbie as the subject of renowned paintings, weight = 0.3  
+3. If Barbie were the muse for famous art pieces, weight = 0.4  
+4. if barbie were the face of the world's most famous paintings, 90-100  

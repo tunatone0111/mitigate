@@ -1,0 +1,4 @@
+1. red flowers - cushion, weight = 0.4  
+2. red chrysanthemums on a pillow, weight = 0.3  
+3. red mums throw cushion, weight = 0.3  
+4. red mums - throw pillow, 80-100  

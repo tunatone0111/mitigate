@@ -1,0 +1,4 @@
+1. pleated curtains from new collection, weight = 0.3  
+2. pencil pleat curtains in fabric style 127-50, weight = 0.3  
+3. pencil pleat curtains in collection jupiter, fabric type 127-50, weight = 0.4  
+4. pencil pleat curtains in collection jupiter, fabric: 127-50, 90-100  

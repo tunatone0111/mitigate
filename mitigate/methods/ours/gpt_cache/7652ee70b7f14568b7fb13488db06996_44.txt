@@ -1,0 +1,4 @@
+1. Ann Graham Lotz discussing spirituality, weight = 0.4  
+2. Spiritual conversations led by Ann Graham Lotz, weight = 0.3  
+3. Exploring living in light with Ann Graham Lotz, weight = 0.3  
+4. Living in the Light with Ann Graham Lotz, 90-100  

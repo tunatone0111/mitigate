@@ -1,0 +1,4 @@
+1. skeleton with cigarette image, weight = 0.4  
+2. skull with burning cigarette pillow inspired by van gogh, weight = 0.3  
+3. Vincent van Gogh's design skull with cigarette, throw pillow, weight = 0.3  
+4. Skull of a skeleton with burning cigarette by Vincent van Gogh throw pillow, 85-100  

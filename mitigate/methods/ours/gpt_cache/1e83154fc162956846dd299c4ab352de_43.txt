@@ -1,0 +1,4 @@
+1. analyzing cost, craft beverage, weight = 0.4  
+2. examining the price of your craft beer set, weight = 0.3  
+3. breaking down costs in a six-pack of craft beer, weight = 0.3  
+4. breaking down the $12 in your six-pack of craft beer, 85-100  

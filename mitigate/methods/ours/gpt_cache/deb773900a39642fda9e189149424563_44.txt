@@ -1,0 +1,4 @@
+1. aero 31 series wheel with 4 on 4 bp, weight = 0.4  
+2. aero wheel 13x8 with 4 inch bs, weight = 0.3  
+3. Aero 31-984040GRN wheel, spun, 31 series, weight = 0.2  
+4. Aero 31-984040GRN 31 series 13x8 wheel, spun, 4 on 4 bolt pattern, 4 inch backspacing, 85-100  

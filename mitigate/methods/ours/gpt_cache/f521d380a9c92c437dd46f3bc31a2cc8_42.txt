@@ -1,0 +1,4 @@
+1. entrance area painted in taupe color, weight = 0.5  
+2. foyer painted in a beige tint, weight = 0.3  
+3. foyer painted in light brown hue, weight = 0.2  
+4. foyer painted in BROWN BAG, 95-100  

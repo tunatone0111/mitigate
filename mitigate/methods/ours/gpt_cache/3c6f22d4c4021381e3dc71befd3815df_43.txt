@@ -1,0 +1,4 @@
+1. laura powers in a discussion, weight = 0.4  
+2. Insights shared by Laura Powers, weight = 0.3  
+3. Engaging talks with Laura Powers, weight = 0.3  
+4. insights with laura powers, 90-100  

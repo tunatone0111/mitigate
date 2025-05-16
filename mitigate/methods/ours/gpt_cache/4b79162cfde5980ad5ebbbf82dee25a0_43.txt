@@ -1,0 +1,4 @@
+1. shaw floors product named tyler taupe, weight = 0.3  
+2. Shaw Floors introduces Tyler Taupe style, weight = 0.4  
+3. Shaw Floors spice it up style Tyler Taupe, weight = 0.3  
+4. Shaw Floors Spice It Up Tyler Taupe 00103_E9013, 85-100  

@@ -1,0 +1,4 @@
+1. overview of st. vincent's apple music show, weight = 0.4  
+2. what to know about st. vincent's radio show on apple music, weight = 0.3  
+3. here's the scoop on st. vincent's show on apple music radio, weight = 0.3  
+4. here's what you need to know about st. vincent's apple music radio show, 85-100  

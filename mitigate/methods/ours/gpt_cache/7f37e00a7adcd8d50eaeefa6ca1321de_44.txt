@@ -1,0 +1,4 @@
+1. pleat curtains in collection Avinon, weight = 0.4  
+2. Pencil pleat curtains with fabric reference 129-66, weight = 0.3  
+3. Avinon pencil pleat curtains with fabric code 129-66, weight = 0.3  
+4. Pencil pleat curtains in collection Avinon, fabric code 129-66, 85-100  

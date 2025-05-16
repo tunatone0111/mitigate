@@ -1,0 +1,4 @@
+1. J Dilla's music equipment donated, weight = 0.3  
+2. JDilla's synthesizers and gear given to Smithsonian, weight = 0.3  
+3. J Dilla's instruments donated to Smithsonian Museum, weight = 0.4  
+4. J Dilla's synthesizers, equipment donated to the Smithsonian museum, 80-100  

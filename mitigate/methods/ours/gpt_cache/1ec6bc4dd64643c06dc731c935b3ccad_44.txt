@@ -1,0 +1,4 @@
+1. entryway in beige color, weight = 0.4
+2. foyer adorned with khaki paint, weight = 0.3
+3. foyer with khaki hues, weight = 0.3
+4. foyer painted in khaki, 85-100

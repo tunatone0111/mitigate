@@ -1,0 +1,4 @@
+1. passion project in audio format, weight = 0.4  
+2. audio broadcasts on passion and revenue, weight = 0.3  
+3. passionate discussions on podcasts and earning, weight = 0.3  
+4. Passion, podcasts, and profit, 90-100  

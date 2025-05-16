@@ -1,0 +1,4 @@
+1. emma watson and tom hanks in movie, weight = 0.3  
+2. Emma Watson acting with Tom Hanks in a film, weight = 0.3  
+3. Emma Watson to star with Tom Hanks in a movie version of dave eggers' the circle, weight = 0.2  
+4. emma watson set to star alongside tom hanks in film adaptation of dave eggers' the circle, 90-100  

@@ -1,0 +1,4 @@
+1. ian mcshane in game of thrones, weight = 0.3  
+2. role of ian mcshane in game of thrones season six, weight = 0.3  
+3. the character ian mcshane might portray in game of thrones season six, weight = 0.4  
+4. here's who ian mcshane may be playing in game of thrones season six, 90-100  

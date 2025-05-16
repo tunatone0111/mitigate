@@ -1,0 +1,4 @@
+1. freddy adu joins unknown team, weight = 0.4  
+2. Freddy Adu signs with another club that's little known, weight = 0.3  
+3. Freddy Adu makes another club move, weight = 0.3  
+4. freddy adu signs for yet another club you probably don't know, 85-100  

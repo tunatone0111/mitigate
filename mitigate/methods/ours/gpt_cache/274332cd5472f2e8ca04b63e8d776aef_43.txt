@@ -1,0 +1,4 @@
+1. Annabel Green decorative carpet, weight = 0.4  
+2. Bungalow Rose Annabel Green rug, weight = 0.3    
+3. Area rug by bungalow rose in Annabel Green, weight = 0.3   
+4. Annabel Green area rug from Bungalow Rose, 90-100  

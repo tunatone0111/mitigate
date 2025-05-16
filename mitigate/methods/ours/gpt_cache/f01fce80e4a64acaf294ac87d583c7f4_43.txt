@@ -1,0 +1,4 @@
+1. bag display with view 81, weight = 0.4
+2. showcasing FUSE bag with perspective 81, weight = 0.3
+3. FUSE Backpack 25 shown in perspective 81, weight = 0.3
+4. FUSE Backpack 25 – View 81, 90-100

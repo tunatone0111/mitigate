@@ -1,0 +1,4 @@
+1. phone covers with romantic sayings, weight = 0.4  
+2. phone cases featuring the message 'you make my heart happy', weight = 0.3  
+3. phone cases with the quote 'you make my heart smile', weight = 0.3  
+4. phone cases - 'you make my heart smile' quote designs, 85-100  

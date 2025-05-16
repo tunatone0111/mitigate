@@ -1,0 +1,4 @@
+1. Shaw Floors presents unique carpet design, weight = 0.4  
+2. Shaw Floors Inspiration textured canvas carpets, weight = 0.3  
+3. My Inspiration carpet by Shaw Floors, textured design EA559, weight = 0.3  
+4. Shaw floors SFA my inspiration I textured canvas 00150_EA559, 80-100

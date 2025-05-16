@@ -1,0 +1,4 @@
+1. move this way or that, unisex shirt, weight = 0.4  
+2. move or get moved, unisex tee, weight = 0.3  
+3. move or you will be moved unisex t-shirt, weight = 0.3  
+4. "Move or you will be moved" unisex tee, 85-100  

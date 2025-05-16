@@ -1,0 +1,4 @@
+1. metal gear shirt featuring fox emblem, weight = 0.4
+2. unisex t-shirt with metal gear solid theme, weight = 0.3
+3. Metal Gear Solid - Fox logo t-shirt for all genders, weight = 0.3
+4. Metal Gear Solid - Fox Hound unisex t-shirt, 85-100

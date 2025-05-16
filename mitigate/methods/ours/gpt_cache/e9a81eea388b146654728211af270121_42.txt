@@ -1,0 +1,4 @@
+1. canvas artwork with forest path, weight = 0.3  
+2. five-panel forest road scene modern art, weight = 0.3  
+3. designart forest path in dense woods, weight = 0.4  
+4. designart forest road in thick woods modern forest-wrapped canvas art, 85-100  

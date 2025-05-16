@@ -1,0 +1,4 @@
+1. shaw floors collection in soft chamois, weight = 0.4
+2. value collections by shaw floors, soft chamois detail, weight = 0.3
+3. value collections from shaw floors with the soft chamois shade, weight = 0.3
+4. shaw floors value collections xvn05 (s) soft chamois 00103_e1236, 90-100

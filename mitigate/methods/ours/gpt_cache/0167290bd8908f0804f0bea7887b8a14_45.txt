@@ -1,0 +1,4 @@
+1. cotton fabric curtain in panama selection, weight = 0.4  
+2. pencil pleat drapery made of cotton, model 702-31, weight = 0.3  
+3. Panama Cotton shares pencil pleat curtain in fabric code 702-31, weight = 0.3  
+4. pencil pleat curtain in collection panama cotton, fabric: 702-31, 85-100  

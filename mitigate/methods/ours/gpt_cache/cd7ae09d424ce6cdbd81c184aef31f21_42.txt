@@ -1,0 +1,8 @@
+Certainly, here's a proposed sequence for the given input prompt:
+
+1. aero 50 series 15x12 wheel, weight = 0.3
+2. Aero 50-924750ORG 15x12 wheel, 5 on 4-3/4 bolt pattern, weight = 0.3
+3. Aero 50-924750ORG 50 Series wheel 15x12, 5 on 4-3/4 BP, weight = 0.2
+4. Aero 50-924750ORG 50 Series 15x12 wheel, 5 on 4-3/4 BP, 5 inch backspacing, 90-100
+
+This sequence is structured to gradually introduce the specific details of the product while retaining the overall semantic meaning. Each step increases in detail and specificity until the final sub-prompt.

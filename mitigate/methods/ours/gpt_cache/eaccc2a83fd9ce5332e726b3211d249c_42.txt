@@ -1,0 +1,4 @@
+1. always sunny group offering self-help advice, weight = 0.4  
+2. the gang from always sunny writing a life improvement book, weight = 0.3  
+3. self-help book from it’s always sunny gang to transform lives, weight = 0.3  
+4. It's Always Sunny gang will turn your life around with a self-help book, 85-100 

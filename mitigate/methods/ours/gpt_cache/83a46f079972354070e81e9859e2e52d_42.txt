@@ -1,0 +1,4 @@
+1. Shaw Floors Value Dinner Event, weight = 0.4  
+2. Shaw Floors hosting net dinner with collections friends, weight = 0.3  
+3. Shaw Floors Value Collections Dinner with Friends, weight = 0.3  
+4. Shaw floors value collections fyc tt ii net dinner with friends, 90-100  

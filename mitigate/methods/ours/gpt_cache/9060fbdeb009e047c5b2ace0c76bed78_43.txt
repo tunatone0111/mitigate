@@ -1,0 +1,4 @@
+1. shaw floors elemental design, weight = 0.4  
+2. Shaw Floors Foundations in a pixel pattern, weight = 0.3  
+3. Shaw Floors Elemental Mix II Pixels 00170_E9565, weight = 0.3  
+4. Shaw Floors Foundations Elemental Mix II Pixels 00170_E9565, 85-100  

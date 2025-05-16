@@ -1,0 +1,4 @@
+1. pirelli scorpion tire, weight = 0.3  
+2. Pirelli Scorpion Verde all-season tire, weight = 0.3  
+3. Pirelli Scorpion Verde All Season 255/60 R18 tire, weight = 0.2  
+4. Шина Pirelli Scorpion Verde All Season 255/60 R18 112H, weight = 0.2  

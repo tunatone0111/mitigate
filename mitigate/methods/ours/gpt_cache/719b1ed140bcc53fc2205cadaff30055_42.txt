@@ -1,0 +1,4 @@
+1. steve carell project not proceeding, weight = 0.3  
+2. Future movie with Steve Carell in north korea not happening, weight = 0.3  
+3. Steve Carell film set in North Korea stopped by New Regency, weight = 0.4  
+4. Future Steve Carell movie set in North Korea canceled by New Regency, 85-100  

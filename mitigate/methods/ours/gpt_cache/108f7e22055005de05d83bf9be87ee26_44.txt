@@ -1,0 +1,4 @@
+1. shaw floors clam shell carpet, weight = 0.3  
+2. Shaw Floors Pure Waters flooring style 00102_52H11, weight = 0.3  
+3. Shaw Floors Pure Waters 15 in clam shell color code 00102_52H11, weight = 0.4  
+4. shaw floors pure waters 15 clam shell 00102_52h11, 80-100  

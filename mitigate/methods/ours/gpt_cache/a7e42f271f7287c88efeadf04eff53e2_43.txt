@@ -1,0 +1,4 @@
+1. alpha convoy backpack, angle 4, weight = 0.4  
+2. ALPHA Convoy 320 pack, showing view 4, weight = 0.3  
+3. ALPHA Convoy 320 backpack - perspective 4, weight = 0.3  
+4. ALPHA Convoy 320 Backpack - view 4, 85-100  

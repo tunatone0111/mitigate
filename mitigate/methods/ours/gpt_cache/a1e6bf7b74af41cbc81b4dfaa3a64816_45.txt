@@ -1,0 +1,4 @@
+1. travel bag model by rig, weight = 0.4  
+2. Rig 9800 bag called view 51, weight = 0.3  
+3. Rig 9800 travel bag, view 51 model, weight = 0.3  
+4. Rig 9800 travel bag - view 51, 85-100  

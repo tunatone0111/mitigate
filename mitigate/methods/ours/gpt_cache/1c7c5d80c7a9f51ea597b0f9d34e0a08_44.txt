@@ -1,0 +1,4 @@
+1. aero 58 series wheel 15x10, weight = 0.3
+2. Aero 58 wheel with 5 on 5-inch layout, weight = 0.4
+3. Aero 58-905055PUR 58 series wheel, size 15x10, 5 on 5 inch pattern, 5-1/2 backspace, weight = 0.3
+4. Aero 58-905055PUR 58 Series 15x10 Wheel, SP, 5 on 5 inch, 5-1/2 BS, 85-100

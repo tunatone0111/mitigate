@@ -1,0 +1,4 @@
+1. vintage styled shirt with bold text, weight = 0.4  
+2. ringer t-shirt with classic 1914 slogan, weight = 0.3  
+3. awesome since 1914 on a ringer tee, weight = 0.3  
+4. awesome since 1914 ringer t-shirt, 85-100

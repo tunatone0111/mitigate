@@ -1,0 +1,4 @@
+1. st. vincent's radio show details, weight = 0.4  
+2. apple music show hosted by st. vincent, weight = 0.3  
+3. important info about st. vincent's radio on apple music, weight = 0.3  
+4. Here's what you should know about St. Vincent's Apple Music Radio show, 85-100  

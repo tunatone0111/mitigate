@@ -1,0 +1,4 @@
+1. entryway colored in spicy shade, weight = 0.4
+2. foyer painted in a hot hue, weight = 0.3
+3. entrance painted in fiery tone HABANERO, weight = 0.3
+4. foyer painted in HABANERO, 90-100

@@ -1,0 +1,4 @@
+1. unisex shirt with a seal design, weight = 0.5  
+2. unisex t-shirt featuring a seal graphic, weight = 0.3  
+3. unisex apparel with seal of approval design, weight = 0.2  
+4. Seal of Approval Unisex T-Shirt, 90-100  

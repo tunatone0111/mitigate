@@ -1,0 +1,4 @@
+1. Shaw floors product in queen harborfields line, weight = 0.4  
+2. Shaw Floors showcasing Harborfields II carpet, weight = 0.3  
+3. Shaw Floors Queen Harborfields II green apple style, weight = 0.3  
+4. shaw floors queen harborfields II 15’ green apple 00303_q4721, 85-100  

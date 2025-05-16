@@ -1,0 +1,5 @@
+###Output:
+1. shaw floors design center moment, weight = 0.3
+2. design moment with shaw floors, weight = 0.3
+3. shaw design center moment of truth acorn, weight = 0.2
+4. Shaw Design Center Moment Of Truth Acorn 00700_5C789, 80-100

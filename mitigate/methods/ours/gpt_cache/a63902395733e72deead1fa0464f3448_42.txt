@@ -1,0 +1,4 @@
+1. george rr martin writing again, world happy, weight = 0.3  
+2. George R.R. Martin planning to write a new book, world celebrates, weight = 0.4  
+3. George R.R. Martin to focus on writing new book, world rejoices, weight = 0.3  
+4. george r.r. martin to focus on writing his next book, world rejoices, 90-100  

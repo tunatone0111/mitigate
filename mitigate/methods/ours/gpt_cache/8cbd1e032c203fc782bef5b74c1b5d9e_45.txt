@@ -1,0 +1,4 @@
+1. Tabbed curtains from Mirella, weight = 0.3  
+2. Collection Mirella tab curtains in fabric 141-11, weight = 0.5  
+3. Mirella tab top curtains, fabric id 141-11, weight = 0.2  
+4. Tab top curtains in collection Mirella, fabric: 141-11, 85-100  

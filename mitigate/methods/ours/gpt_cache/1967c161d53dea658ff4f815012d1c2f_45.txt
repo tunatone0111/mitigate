@@ -1,0 +1,4 @@
+1. Shaw Floors presents Color Express, weight = 0.3  
+2. Shaw Floors showcases nfa/apg color series, weight = 0.4  
+3. Shaw Floors' color express ii suitable model, weight = 0.3  
+4. Shaw Floors Nfa/Apg Color Express II Suitable 00712_NA209, 80-100

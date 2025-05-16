@@ -1,0 +1,4 @@
+1. ava duvernay steps back from directing, weight = 0.4  
+2. Ava DuVernay decides not to direct a film, weight = 0.3  
+3. Ava DuVernay will not direct the Black Panther movie, weight = 0.3  
+4. ava duvernay will not direct <i>black panther</i> after all, 85-100  

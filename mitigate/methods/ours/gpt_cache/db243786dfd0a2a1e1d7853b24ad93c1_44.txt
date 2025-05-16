@@ -1,0 +1,5 @@
+1. golden pattern abstract art, weight = 0.3  
+2. fractal circles design artwork, weight = 0.3  
+3. designart fractal pattern with circular elements, weight = 0.2  
+4. designart golden fractal canvas art with circles, 7 panels, weight = 0.2  
+5. designart golden fractal pattern with circles abstract canvas art - seven panels, 80-100  

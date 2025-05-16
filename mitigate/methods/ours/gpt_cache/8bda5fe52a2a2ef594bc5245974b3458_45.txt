@@ -1,0 +1,4 @@
+1. george r. r. martin delays release, weight = 0.4
+2. author george r. r. martin postpones new book launch, weight = 0.3
+3. George R. R. Martin won't release the winds of winter this year, weight = 0.3
+4. george r. r. martin won't release "the winds of winter" this year, 90-100

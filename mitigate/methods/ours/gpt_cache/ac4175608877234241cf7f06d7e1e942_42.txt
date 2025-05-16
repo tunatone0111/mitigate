@@ -1,0 +1,4 @@
+1. passion, podcasting, and money, weight = 0.4
+2. Passion for podcast leads to profit, weight = 0.3
+3. Passion, podcast, and earning, weight = 0.3
+4. Passion, Podcasting, Profit, 90-100

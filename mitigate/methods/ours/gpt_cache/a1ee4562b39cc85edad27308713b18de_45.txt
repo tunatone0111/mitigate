@@ -1,0 +1,4 @@
+1. unisex shirt with bold text, weight = 0.4  
+2. Move or get moved design on a unisex tee, weight = 0.3  
+3. unisex tee with "move or you will be moved" print, weight = 0.3  
+4. move or you will be moved unisex tee, 90-100

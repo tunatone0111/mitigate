@@ -1,0 +1,4 @@
+1. Discussions on foundational ideas and buddhist morals, weight = 0.4  
+2. Conversations on the guiding principles and ethics of buddhism, weight = 0.3  
+3. Talks focused on precepts and ethical teachings in buddhism, weight = 0.3  
+4. Talks on precepts and buddhist ethics, 90-100  

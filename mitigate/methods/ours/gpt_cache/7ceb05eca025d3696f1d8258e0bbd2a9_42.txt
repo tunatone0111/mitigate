@@ -1,0 +1,4 @@
+1. renegade backpack design, weight = 0.5  
+2. Renegade RSS laptop bag, weight = 0.3  
+3. Renegade RSS laptop backpack view, weight = 0.2  
+4. Renegade RSS Laptop Backpack - view 3, 90-100  

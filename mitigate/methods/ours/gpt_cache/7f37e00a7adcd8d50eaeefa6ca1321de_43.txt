@@ -1,0 +1,4 @@
+1. fabric collection with curtains, weight = 0.3  
+2. curtains in pencil pleat style, avinon collection, weight = 0.4  
+3. pencil pleat curtains from avinon collection, weight = 0.3  
+4. pencil pleat curtains in collection avinon, fabric: 129-66, 85-100  

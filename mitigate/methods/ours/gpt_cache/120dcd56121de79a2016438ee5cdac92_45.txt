@@ -1,0 +1,4 @@
+1. john w doyle sharing music insights, weight = 0.5  
+2. John W Doyle offering sound recommendations, weight = 0.3  
+3. Sound Advice series featuring John W Doyle, weight = 0.2  
+4. sound advice with john w doyle, 90-100  

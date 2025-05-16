@@ -1,0 +1,4 @@
+1. passion pit releases video, weight = 0.3  
+2. Passion Pit's latest music video "Lifted Up", weight = 0.3  
+3. passion pit's new video "Lifted Up (1985)", weight = 0.4  
+4. watch: passion pit's new video, "lifted up (1985)", 85-100  

@@ -1,0 +1,5 @@
+###Output:
+1. shaw floors carpet sample net jade, weight = 0.4
+2. Shaw Floors Cashmere iv lg, weight = 0.3
+3. Value collections from shaw floors jade, weight = 0.3
+4. Shaw Floors Value Collections Cashmere iv lg net jade, 85-100

@@ -1,0 +1,4 @@
+1. entryway colored in vibrant shades, weight = 0.4 
+2. hallway freshly painted in high tide hue, weight = 0.3 
+3. Foyer with walls in 'High Tide', weight = 0.3 
+4. foyer painted in high tide, 85-100

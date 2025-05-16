@@ -1,0 +1,4 @@
+1. the long dark new teaser video, weight = 0.3  
+2. the first preview of the long dark on steam, weight = 0.3  
+3. the long dark gets initial trailer for steam, weight = 0.2  
+4. The Long Dark releases first trailer, steam early access, 80-100  

@@ -1,0 +1,4 @@
+1. netflix announces new partnership, weight = 0.4  
+2. Netflix and AT&T collaboration for improved streaming, weight = 0.3  
+3. Netflix strikes pact with AT&T to enhance streaming speed, weight = 0.3  
+4. netflix strikes deal with at&t for faster streaming, 85-100  

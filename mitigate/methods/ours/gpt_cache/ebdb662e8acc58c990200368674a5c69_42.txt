@@ -1,0 +1,5 @@
+1. artful forest landscape artwork, weight = 0.3  
+2. design artwork of dark morning in forest, weight = 0.3  
+3. panoramic forest landscape on canvas, weight = 0.2  
+4. dark morning forest panorama on 5-panel canvas, weight = 0.2  
+5. Design art dark morning in a forest panorama landscape canvas print - 5 panels, 95-100

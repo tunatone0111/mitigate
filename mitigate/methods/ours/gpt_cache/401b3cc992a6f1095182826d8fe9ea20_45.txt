@@ -1,0 +1,4 @@
+1. hallway painted in deep blue, weight = 0.4  
+2. entrance painted in high tide color, weight = 0.3  
+3. foyer decorated with high tide paint, weight = 0.3  
+4. foyer painted in High Tide hue, 85-100  

@@ -1,0 +1,4 @@
+1. camouflage skulls on car seats, weight = 0.4  
+2. car seat covers with camo skull design, weight = 0.3  
+3. camouflage skull-patterned car seat covers, weight = 0.3  
+4. Camo skull car seat covers, 90-100  

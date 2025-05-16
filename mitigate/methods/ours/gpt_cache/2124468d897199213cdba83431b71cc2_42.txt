@@ -1,0 +1,4 @@
+1. empowered unisex shirt, weight = 0.4  
+2. Empowered gender-neutral t-shirt, weight = 0.3  
+3. EMPOWERED unisex t-shirt, weight = 0.3  
+4. Empowered unisex T-Shirt, 90-100  

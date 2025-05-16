@@ -1,0 +1,4 @@
+1. listen to the new track by the dead weather, weight = 0.3  
+2. hearing the dead weather's latest song "buzzkiller", weight = 0.3  
+3. listen to the dead weather's new tune, buzzkill(er), weight = 0.4  
+4. listen to The Dead Weather's new song, "Buzzkill(er)", 85-100  

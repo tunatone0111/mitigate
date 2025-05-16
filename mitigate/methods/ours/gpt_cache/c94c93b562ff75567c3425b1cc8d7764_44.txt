@@ -1,0 +1,3 @@
+1. shaw carpeting company, weight = 0.5  
+2. Shaw Floor Coverings, weight = 0.5  
+3. Shaw Floors brand, 90-100

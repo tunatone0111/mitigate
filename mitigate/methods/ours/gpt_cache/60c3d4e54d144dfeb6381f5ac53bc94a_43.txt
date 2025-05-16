@@ -1,0 +1,4 @@
+1. octopus moving on a pillow, weight = 0.4  
+2. swimming octopus throw cushion, weight = 0.3  
+3. octopus in motion on a decorative pillow, weight = 0.3  
+4. octopus swimming throw pillow, 90-100  

@@ -1,0 +1,4 @@
+1. gary ryan improving skills, weight = 0.4
+2. Gary Ryan advancing past competency, weight = 0.3
+3. Gary Ryan's journey of moving beyond being good, weight = 0.3
+4. Gary Ryan moving beyond being good, 85-100

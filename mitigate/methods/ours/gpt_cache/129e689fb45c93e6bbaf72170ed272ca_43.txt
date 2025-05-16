@@ -1,0 +1,4 @@
+1. stephen colbert featured on coffee brand, weight = 0.4
+2. Col'brew coffee with stephen colbert, weight = 0.3
+3. Stephen Colbert's face on col'brew coffee bottle, weight = 0.3
+4. Stephen Colbert gets his face on a bottle with Col'Brew coffee, 85-100

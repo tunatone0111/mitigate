@@ -1,0 +1,4 @@
+1. chris farley documentary teaser debuts, weight = 0.4  
+2. I Am Chris Farley film unveils trailer, weight = 0.3  
+3. Documentary on Chris Farley presents first preview, weight = 0.3  
+4. "I Am Chris Farley" documentary releases first trailer, 85-100  

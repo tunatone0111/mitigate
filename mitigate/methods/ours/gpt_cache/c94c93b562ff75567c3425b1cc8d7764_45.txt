@@ -1,0 +1,3 @@
+1. flooring by shaw, weight = 0.5  
+2. floors by shaw company, weight = 0.5  
+3. Shaw Floors, 90-100

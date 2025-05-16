@@ -1,0 +1,4 @@
+1. shaw floors value series Sedona 00708_E0925, weight = 0.4  
+2. Shaw Floors value collection net product, weight = 0.3  
+3. Shaw Floors series named Value collections Sedona 00708_E0925, weight = 0.3  
+4. Shaw Floors Value Collections titled That's Right Net Sedona 00708_E0925, 85-100 

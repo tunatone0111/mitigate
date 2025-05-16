@@ -1,0 +1,4 @@
+1. backpack model, view 71, weight = 0.4
+2. FUSE backpack 25, angle 71, weight = 0.3
+3. FUSE Backpack 25 in view 71, weight = 0.3
+4. FUSE Backpack 25 - View 71, 90-100

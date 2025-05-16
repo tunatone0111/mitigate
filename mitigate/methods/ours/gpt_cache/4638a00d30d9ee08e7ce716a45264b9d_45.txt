@@ -1,0 +1,4 @@
+1. shaw floors product, weight = 0.3  
+2. Shaw Floors value collections, cozy harbor carpets, weight = 0.3  
+3. shaw floors value collections cozy harbor I, waters edge color, weight = 0.4  
+4. Shaw floors value collections cozy harbor I in net waters edge hue, 85-100

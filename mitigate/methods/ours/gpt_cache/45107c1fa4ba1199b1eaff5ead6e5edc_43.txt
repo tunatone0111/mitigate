@@ -1,0 +1,4 @@
+1. four-leaf clover shirt, weight = 0.4  
+2. short-sleeve unisex t-shirt with clover design, weight = 0.3  
+3. unisex t-shirt featuring a four-leaf clover, weight = 0.3  
+4. 4 leaf clover short-sleeve unisex t-shirt, 90-100  

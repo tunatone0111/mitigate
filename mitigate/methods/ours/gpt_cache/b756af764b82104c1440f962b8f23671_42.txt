@@ -1,0 +1,4 @@
+1. Phil Fish and Polytron hacked, weight = 0.4  
+2. Fez creator phil fish's company targeted, weight = 0.3  
+3. Hack incident involving Phil Fish and Polytron, weight = 0.3  
+4. Fez Creator Phil Fish and Polytron Corp hacked, doxxed, 85-100  

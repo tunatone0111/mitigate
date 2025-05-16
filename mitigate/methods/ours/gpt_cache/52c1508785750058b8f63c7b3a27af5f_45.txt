@@ -1,0 +1,4 @@
+1. hallway painted in sea breeze color, weight = 0.5  
+2. foyer covered in ocean mist hue, weight = 0.3  
+3. foyer coated with salty air paint, weight = 0.2  
+4. foyer painted in SALTY AIR, 80-100  

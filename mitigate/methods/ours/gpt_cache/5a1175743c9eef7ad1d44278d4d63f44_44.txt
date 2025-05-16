@@ -1,0 +1,4 @@
+1. ricky gervais announces new shows, weight = 0.4
+2. Ricky Gervais promises more performances as David Brent, weight = 0.3
+3. Ricky Gervais plans more gigs featuring David Brent, weight = 0.3
+4. ricky gervais promises more david brent gigs, 85-100

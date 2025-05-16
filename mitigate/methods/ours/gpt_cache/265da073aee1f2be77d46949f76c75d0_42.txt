@@ -1,0 +1,4 @@
+1. sony decision on the new film, weight = 0.3  
+2. Sony won't release the comedy film on streaming, weight = 0.3  
+3. Sony won't release the movie "The Interview" on VOD, weight = 0.4  
+4. Sony declines to release “The Interview” on video-on-demand, 90-100  

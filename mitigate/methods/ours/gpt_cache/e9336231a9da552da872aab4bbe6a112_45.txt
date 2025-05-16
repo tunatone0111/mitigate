@@ -1,0 +1,4 @@
+1. f. scott fitzgerald tale released, weight = 0.4  
+2. reading an unreleased story by f. scott fitzgerald, weight = 0.3  
+3. Experience an unpublished narrative by F. Scott Fitzgerald, weight = 0.3  
+4. Read a previously unpublished F. Scott Fitzgerald story, 90-100  

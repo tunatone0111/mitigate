@@ -1,0 +1,4 @@
+1. sylvester stallone shares news, weight = 0.3  
+2. Rambo sequel and rocky offshoot updates by sylvester stallone, weight = 0.3  
+3. Sylvester Stallone provides updates on rambo 5 and rocky spin-off, weight = 0.4  
+4. Rambo 5 and rocky spin-off – sylvester stallone gives updates, 85-100  

@@ -1,0 +1,4 @@
+1. dog print seat covers, weight = 0.4  
+2. Silky Terrier design car covers, free delivery, weight = 0.3  
+3. Australian Silky Terrier car seat covers, free shipping, weight = 0.3  
+4. Australian Silky Terrier print car seat covers, free shipping, 85-100  

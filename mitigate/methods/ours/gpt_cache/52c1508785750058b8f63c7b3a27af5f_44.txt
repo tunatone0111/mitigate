@@ -1,0 +1,4 @@
+1. entryway colored in sea breeze hue, weight = 0.4  
+2. foyer in ocean-inspired paint, weight = 0.3  
+3. foyer painted in salty air shade, weight = 0.3  
+4. Foyer painted in SALTY AIR color, 85-100  

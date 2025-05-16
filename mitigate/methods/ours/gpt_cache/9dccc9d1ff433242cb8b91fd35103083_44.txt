@@ -1,0 +1,4 @@
+1. Trailer preview for NBC show, weight = 0.4
+2. watch the NBC Constantine trailer, weight = 0.3
+3. Watch the trailer for NBC's Constantine, weight = 0.3
+4. View the preview of NBC's show <i>Constantine</i>, 85-100

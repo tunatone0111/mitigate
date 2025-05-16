@@ -1,0 +1,4 @@
+1. colorful abstract wall art, weight = 0.3  
+2. multi-color stained glass design as wall art, weight = 0.3  
+3. abstract canvas with fractal stained glass pattern, weight = 0.4  
+4. designart multi-color fractal stained glass wall art canvas, 80-100  

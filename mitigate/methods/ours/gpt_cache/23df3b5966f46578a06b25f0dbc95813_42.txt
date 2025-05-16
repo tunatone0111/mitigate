@@ -1,0 +1,4 @@
+1. shaw floors presents a textured story, weight = 0.4  
+2. Shaw Floors featuring floor studio designs, weight = 0.3  
+3. Shaw Floors Studio with textured story of candied truffle, weight = 0.3  
+4. shaw floors shaw floor studio textured story 15 candied truffle 55750_52b76, 85-100

@@ -1,0 +1,4 @@
+1. director danny boyle signs tv project, weight = 0.4
+2. Danny Boyle making a tv deal with FX, weight = 0.3
+3. Danny Boyle going to television with FX arrangement, weight = 0.3
+4. director danny boyle is moving to tv through fx deal, 85-100

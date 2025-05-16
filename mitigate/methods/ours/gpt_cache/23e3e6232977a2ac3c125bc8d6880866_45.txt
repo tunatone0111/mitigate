@@ -1,0 +1,4 @@
+1. shaw floors value series, weight = 0.3  
+2. Shaw Floors Value collections natural contour flooring, weight = 0.3  
+3. Shaw Floors Value Collections Solidify III natural contour, weight = 0.4  
+4. Shaw Floors Value Collections Solidify III 12 Net Natural Contour 00104_5E340, 85-100  

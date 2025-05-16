@@ -1,0 +1,9 @@
+Sure, here's how we could break down the prompt:
+
+### Input: Shaw Floors Sandy Hollow III 15′ Adobe 00108_Q4278
+
+### Output:
+1. sandy hollow iii adobe flooring, weight = 0.4
+2. Shaw Floors Sandy Hollow, adobe style, weight = 0.3
+3. Sandy Hollow III flooring by Shaw Floors, weight = 0.3
+4. Shaw Floors Sandy Hollow III 15' Adobe, 85-100

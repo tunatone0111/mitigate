@@ -1,0 +1,6 @@
+### Output:
+
+1. shaw floors carpet design, tuscan valley, weight = 0.4
+2. Shaw Floors featuring Tuscan Valley Cashmere, weight = 0.3
+3. Shaw Floors SFA Tuscan Valley Cashmere flooring, weight = 0.3
+4. shaw floors sfa tuscan valley cashmere 00701_52e29, 90-100

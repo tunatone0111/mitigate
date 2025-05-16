@@ -1,0 +1,5 @@
+1. gathering, marriage, blooms, hairstyle, weight = 0.3  
+2. wedding with floral decor, red hairpieces, weight = 0.3  
+3. unity ceremony with flowers, red hairstyles, weight = 0.2  
+4. red hair and florals at a wedding, iphone 6 case, weight = 0.2  
+5. cohesion, wedding, flowers, hair, red hair, red or barely there iPhone 6 case, 90-100  

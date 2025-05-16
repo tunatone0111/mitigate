@@ -1,0 +1,6 @@
+Sure, here is how you can spread out the prompt "Sapphire & Jade Stained … Throw Pillow" across multiple sub-prompts:
+
+1. colorful gemstone-inspired pillow design, weight = 0.5  
+2. throw pillow with sapphire and jade pattern, weight = 0.3  
+3. Sapphire and jade stained design on a throw pillow, weight = 0.2  
+4. Sapphire & Jade stained throw pillow, 85-100

@@ -1,0 +1,4 @@
+1. message on a t-shirt, encouragement, weight = 0.3
+2. do more of what makes you joyful, clothes text, weight = 0.3
+3. slogan on a gray shirt: increase your happiness, weight = 0.2
+4. text reads: do more of what makes you happier, white on grey - happier place,  80-100

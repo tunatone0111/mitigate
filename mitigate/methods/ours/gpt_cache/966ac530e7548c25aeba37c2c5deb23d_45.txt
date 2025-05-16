@@ -1,0 +1,4 @@
+1. set of brother label, weight = 0.3  
+2. brother TZe-231 black on white label, weight = 0.3  
+3. pack of 6 brother TZe-231 black on white P-touch label, weight = 0.4  
+4. Set of six Brother TZe-231 Black on White P-Touch Label, 90-100  

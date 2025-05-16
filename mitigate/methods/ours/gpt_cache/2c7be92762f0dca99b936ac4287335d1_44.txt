@@ -1,0 +1,4 @@
+1. film director danny boyle takes on television, weight = 0.4  
+2. Danny Boyle beginning new series with FX, weight = 0.3  
+3. Danny Boyle collaborating with FX for a TV project, weight = 0.3  
+4. director danny boyle is headed to tv with fx deal, 90-100  

@@ -1,0 +1,4 @@
+1. shaw floors exploring flooring options, weight = 0.3  
+2. Shaw Floors value collection offerings, weight = 0.3  
+3. Shaw Floors value collections with twist net wave pool design, weight = 0.4  
+4. Shaw Floors Value Collections Explore With Me Twist Net Wave Pool, 80-100  

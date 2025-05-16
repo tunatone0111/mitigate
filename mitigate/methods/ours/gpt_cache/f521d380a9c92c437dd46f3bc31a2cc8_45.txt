@@ -1,0 +1,4 @@
+1. hallway painted in beige tone, weight = 0.4  
+2. entrance painted in brown shade, weight = 0.3  
+3. foyer colored in brown bag hue, weight = 0.3  
+4. foyer painted in brown bag, 85-100  

@@ -1,0 +1,4 @@
+1. cautionary message on t-shirt, weight = 0.4  
+2. be cautious... short-sleeve tee, weight = 0.3  
+3. be careful message on unisex short-sleeve t-shirt, weight = 0.3  
+4. Be Careful... short-sleeve unisex t-shirt, 85-100  

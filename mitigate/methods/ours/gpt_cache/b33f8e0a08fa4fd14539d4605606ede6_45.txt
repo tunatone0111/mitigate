@@ -1,0 +1,4 @@
+1. colbert show announces finale, weight = 0.4  
+2. The colbert report announces end date, weight = 0.3  
+3. colbert report sets final episode, weight = 0.3  
+4. The Colbert Report gets end date, 85-100  

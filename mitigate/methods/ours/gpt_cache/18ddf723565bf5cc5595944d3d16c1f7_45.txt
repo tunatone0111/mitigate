@@ -1,0 +1,4 @@
+1. dc superhero podcast, weight = 0.5  
+2. dc all stars audio series, weight = 0.3  
+3. Podcast featuring DC heroes, weight = 0.2  
+4. DC All Stars podcast, 80-100  

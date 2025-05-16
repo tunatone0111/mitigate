@@ -1,0 +1,4 @@
+1. vibrant landscape art with oversized circle, weight = 0.3  
+2. colorful artwork depicting a dense forest in fall with fog, weight = 0.3  
+3. design art featuring a lighted circle in a misty autumn woodland, weight = 0.2  
+4. design art light in dense fall forest with fog vibrant landscape oversized circle wall art, 80-100  

@@ -1,0 +1,4 @@
+1. meditation cushion, weight = 0.5  
+2. floor pillow for meditation, weight = 0.3  
+3. meditation floor cushion, weight = 0.2  
+4. floor meditation pillow, 85-100  

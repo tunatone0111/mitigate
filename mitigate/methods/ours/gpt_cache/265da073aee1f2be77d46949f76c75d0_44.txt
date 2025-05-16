@@ -1,0 +1,6 @@
+### Output:
+
+1. sony decides against releasing vod, weight = 0.4
+2. Sony postpones release of "The Interview", weight = 0.3
+3. Sony won't release The Interview via vod, weight = 0.3
+4. sony won't release “the interview” on vod, 90-100

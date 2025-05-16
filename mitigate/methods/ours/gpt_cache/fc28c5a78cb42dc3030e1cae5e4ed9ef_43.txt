@@ -1,0 +1,4 @@
+1. george r.r. martin supports wildlife with donation, weight = 0.4    
+2. Author george r.r. martin contributes to sanctuary, weight = 0.3    
+3. George R.R. Martin donates $10,000 for fan's wolf sanctuary, weight = 0.3    
+4. george r.r. martin donates $10,000 to wolf sanctuary for 13-year-old fan, 85-100    

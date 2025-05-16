@@ -1,0 +1,4 @@
+1. unisex short-sleeve shirt caution, weight = 0.4  
+2. caution slogan on unisex t-shirt, weight = 0.3  
+3. short-sleeved be cautious unisex tee, weight = 0.3  
+4. Be Careful short-sleeve unisex T-shirt, 90-100  

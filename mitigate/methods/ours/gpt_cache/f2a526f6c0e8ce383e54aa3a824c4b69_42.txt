@@ -1,0 +1,4 @@
+1. blue marble abstract artwork, weight = 0.3  
+2. bright blue marble patterns on canvas, weight = 0.3  
+3. abstract wall art with blue vein patterns, weight = 0.4  
+4. designart bright blue veins of marble wall art canvas - 6 panels, 85-100  

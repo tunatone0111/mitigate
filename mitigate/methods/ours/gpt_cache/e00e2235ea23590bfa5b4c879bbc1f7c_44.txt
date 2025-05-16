@@ -1,0 +1,4 @@
+1. shaw floors new carpet option, weight = 0.4  
+2. Shaw Floors introduces new flooring, weight = 0.3  
+3. Shaw Newbern Classic crimson carpet style, weight = 0.3  
+4. Shaw Floors Newbern Classic 15’ Crimson 55803_E0950, 85-100  

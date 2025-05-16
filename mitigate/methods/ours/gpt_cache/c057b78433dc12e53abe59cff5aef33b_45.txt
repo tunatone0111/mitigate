@@ -1,0 +1,5 @@
+1. large steel door, weight = 0.3  
+2. white steel entry door with sidelight, weight = 0.3  
+3. Aristocrat two-panel door with brickmould, weight = 0.2  
+4. 48 x 82-inch Aristocrat 3/4-lite 2-panel white steel entry door with sidelite and brickmould, weight = 0.2  
+5. Aristocrat 3/4-Lite 2-Panel white steel door with sidelite and brickmould, 85-100  

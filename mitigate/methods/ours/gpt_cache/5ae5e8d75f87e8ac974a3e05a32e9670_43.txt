@@ -1,0 +1,4 @@
+1. green abstract artwork on canvas, metal elements, weight = 0.3  
+2. contemporary art featuring a metal grill design, weight = 0.3  
+3. abstract metal design on canvas, green tones, weight = 0.4  
+4. green abstract metal grill contemporary art on canvas, 5 panels, 80-100  

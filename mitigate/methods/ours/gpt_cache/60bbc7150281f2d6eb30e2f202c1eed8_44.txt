@@ -1,0 +1,4 @@
+1. harley-davidson motorcycle in fredericksburg, weight = 0.3
+2. 2020 Harley-Davidson Road Glide Limited, weight = 0.4
+3. Harley-Davidson Road Glide Limited in Virginia, weight = 0.3
+4. 2020 Harley-Davidson Road Glide® Limited in Fredericksburg, Virginia - photo three, 80-100

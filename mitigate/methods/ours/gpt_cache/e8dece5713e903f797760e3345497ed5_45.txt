@@ -1,0 +1,4 @@
+1. curtain collection venice, weight = 0.4  
+2. Pencil pleat drapes in venice collection, weight = 0.3  
+3. Pencil pleat curtains in the venice series, fabric id 142-57, weight = 0.3  
+4. Pencil pleat curtains in collection Venice, fabric code 142-57, 85-100  

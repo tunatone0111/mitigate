@@ -1,0 +1,4 @@
+1. curtain from sunny range, weight = 0.4  
+2. pencil pleat curtain in sunny collection, weight = 0.3  
+3. Pencil pleat curtain in the Sunny series, fabric code 143-43, weight = 0.3  
+4. pencil pleat curtain in collection sunny, fabric: 143-43, 90-100  

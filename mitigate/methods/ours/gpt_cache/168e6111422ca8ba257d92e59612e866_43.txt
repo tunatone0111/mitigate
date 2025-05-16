@@ -1,0 +1,4 @@
+1. shaw floors offering buff net flooring, weight = 0.3  
+2. passageway flooring by shaw floors, weight = 0.3  
+3. Shaw Floors passageway 1 12 net classic buff, weight = 0.2  
+4. Shaw Floors Value Collections Passageway net classic buff 00108_E9152, 85-100

@@ -1,0 +1,4 @@
+1. laura powers shares ideas, weight = 0.4  
+2. Insightful discussions with laura powers, weight = 0.3  
+3. Conversations featuring insights with laura powers, weight = 0.3  
+4. insights with Laura Powers, 85-100  

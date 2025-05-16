@@ -1,0 +1,4 @@
+1. new film project based on Mrs. Doubtfire, weight = 0.4  
+2. sequel to Mrs. Doubtfire being developed, weight = 0.3  
+3. plans for a sequel to Mrs. Doubtfire in progress, weight = 0.3  
+4. there's a Mrs. Doubtfire sequel in development, 85-100  

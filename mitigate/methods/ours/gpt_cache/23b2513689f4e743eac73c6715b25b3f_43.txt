@@ -1,0 +1,4 @@
+1. decor pillow with text: come together, weight = 0.4
+2. throw pillow featuring words 'come together', weight = 0.3
+3. decorative cushion labeled come together, weight = 0.3
+4. Come Together throw pillow, 90-100

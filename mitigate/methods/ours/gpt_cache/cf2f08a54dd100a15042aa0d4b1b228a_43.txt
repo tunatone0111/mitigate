@@ -1,0 +1,4 @@
+1. car seat covers for horse enthusiasts, wild spirits, weight = 0.4  
+2. covers for car seats featuring designs for horse fans, weight = 0.3  
+3. wild hearts can't be broken seat covers for horse lovers, weight = 0.3  
+4. wild hearts can't be broken car seat covers for horse lovers, 85-100  

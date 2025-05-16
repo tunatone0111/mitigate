@@ -1,0 +1,4 @@
+1. dog-themed shirts, weight = 0.4  
+2. morkie shirts, "if I can't bring my morkie", weight = 0.3  
+3. unisex t-shirt for morkie lovers, weight = 0.3  
+4. Morkie shirts - if I can't bring my morkie I'm not going unisex t-shirt, 85-100  

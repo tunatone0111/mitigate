@@ -1,0 +1,4 @@
+1. hawkgirl joins new superhero series, weight = 0.4
+2. Hawkgirl cast in Arrow and Flash spin-off series, weight = 0.3
+3. hawkgirl set for the cw's arrow/flash spinoff, weight = 0.3
+4. hawkgirl cast in <i>arrow</i>/<i>flash</i> spinoff series for the cw, 90-100

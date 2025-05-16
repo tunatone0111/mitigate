@@ -1,0 +1,4 @@
+1. shaw floors collection display, weight = 0.3  
+2. Shaw Floors Passageway camel style 00204_E9153, weight = 0.4  
+3. Shaw Floors value collection Passageway with camel tone 00204_E9153, weight = 0.3  
+4. Shaw Floors Value Collections Passageway 2 12 Camel 00204_E9153, 85-100  

@@ -1,0 +1,4 @@
+1. anna kendrick writing personal stories, weight = 0.4
+2. Anna Kendrick crafting humorous essays, weight = 0.3
+3. Anna Kendrick is composing a collection of funny personal essays, weight = 0.3
+4. Anna Kendrick is writing a collection of personal and funny essays, 85-100

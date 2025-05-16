@@ -1,0 +1,4 @@
+1. Shaw Floors showcasing new flooring, weight = 0.3  
+2. Shaw Floors value collections, sedona carpets, weight = 0.3  
+3. Shaw Floors presents "That's Right Net" Sedona, weight = 0.4  
+4. Shaw Floors Value Collections, That's Right Net Sedona 00708_E0925, 80-100

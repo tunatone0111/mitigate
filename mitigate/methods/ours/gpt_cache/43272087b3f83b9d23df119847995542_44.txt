@@ -1,0 +1,4 @@
+1. unisex t-shirt with popular design, weight = 0.4  
+2. trendy unisex shirt receiving commendation, weight = 0.3  
+3. stylish unisex seal of approval t-shirt, weight = 0.3  
+4. seal of approval unisex t-shirt, 85-100  

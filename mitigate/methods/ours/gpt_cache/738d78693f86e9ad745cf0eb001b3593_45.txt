@@ -1,0 +1,4 @@
+1. floors roll special in butter cream color, weight = 0.4  
+2. Shaw flooring roll in butter cream hue, weight = 0.3  
+3. Shaw Floors special roll in butter cream, weight = 0.3  
+4. Shaw Floors Roll Special Xv864 in Butter Cream 00200_XV864, 85-100  

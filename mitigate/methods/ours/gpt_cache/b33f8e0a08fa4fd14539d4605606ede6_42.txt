@@ -1,0 +1,4 @@
+1. colbert report show nearing its conclusion, weight = 0.4  
+2. End date announced for The Colbert Report, weight = 0.3  
+3. The Colbert Report to finish airing, weight = 0.3  
+4. the Colbert Report gets its end date, 85-100  

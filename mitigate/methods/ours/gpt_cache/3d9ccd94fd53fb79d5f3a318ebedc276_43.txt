@@ -1,0 +1,4 @@
+1. abstract artwork with pink designs, weight = 0.3  
+2. bright pink patterns on black canvas art, weight = 0.4  
+3. design art featuring bright pink on a black wall art canvas, weight = 0.3  
+4. Design art bright pink designs on black abstract wall art canvas - 5 panels, 80-100  

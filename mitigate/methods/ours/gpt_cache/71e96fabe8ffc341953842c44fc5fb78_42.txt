@@ -1,0 +1,4 @@
+1. willy wonka inquires about ib, weight = 0.4
+2. Willy Wonka asks about being smarter in IB, weight = 0.3
+3. Oh, you're in IB? Willy Wonka wants to know how much smarter you feel, weight = 0.3
+4. Willy Wonka: oh, you’re in ib? please tell me how much smarter you are than others, 85-100

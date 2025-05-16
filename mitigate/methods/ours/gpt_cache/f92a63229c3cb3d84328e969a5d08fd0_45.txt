@@ -1,0 +1,4 @@
+1. hallway painted in bold color, weight = 0.4  
+2. entrance painted in spicy shade habanero, weight = 0.3  
+3. foyer painted in vibrant hue habanero, weight = 0.3  
+4. entranceway painted in HABANERO, 85-100  

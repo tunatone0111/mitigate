@@ -1,0 +1,5 @@
+### Output:
+1. aero wheel series, size 15x8, weight = 0.3
+2. Aero 53 series wheel in blue, weight = 0.3
+3. Aero 53-984710BLU wheel, 5 on 4-3/4, weight = 0.2
+4. Aero 53-984710BLU 53 Series 15x8 wheel, blue with 1 inch backspacing imca, 90-100

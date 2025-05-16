@@ -1,0 +1,4 @@
+1. large white steel entry door, weight = 0.3  
+2. white steel door with side window and frame, weight = 0.3  
+3. 3/4-lite steel entry door with sidelite and brickmould, weight = 0.2  
+4. 48 inch by 82 inch aristocrat white steel door with panel, side window, and brickmould, 80-100  

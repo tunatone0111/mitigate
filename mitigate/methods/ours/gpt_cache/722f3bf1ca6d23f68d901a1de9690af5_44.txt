@@ -1,0 +1,4 @@
+1. shaw floors star event, weight = 0.3
+2. Shaw Floors hosting a weekend event, weight = 0.3
+3. Shaw Floors All Star Weekend with net royal purple, weight = 0.4
+4. shaw floors all star weekend iii net royal purple 00902_E0773, 80-100

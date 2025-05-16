@@ -1,0 +1,4 @@
+1. shaw floors decorating option, weight = 0.4  
+2. Shaw Floors introduces "Dockside" 00752_E0819, weight = 0.3  
+3. Shaw Floors "Make It Yours" with Dockside 00752_E0819, weight = 0.3  
+4. Shaw Floors Make It Yours (s) Dockside 00752_E0819, 85-100  

@@ -1,0 +1,4 @@
+1. Shaw Floors introducing new carpet, weight = 0.3
+2. Shaw Floors nfa/apg Barracan classic, weight = 0.3
+3. Shaw Floors Barracan Classic I in true blue, weight = 0.2
+4. shaw floors nfa/apg barracan classic i true blue 00423_na074, 80-100

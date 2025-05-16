@@ -1,0 +1,4 @@
+1. serene maldives coastline artwork, weight = 0.3  
+2. oversized canvas art depicting a maldivian sunset, weight = 0.3  
+3. large landscape art of maldives seashore during sunset, weight = 0.2  
+4. designart serene maldives seashore at sunset on oversized canvas, 20-100

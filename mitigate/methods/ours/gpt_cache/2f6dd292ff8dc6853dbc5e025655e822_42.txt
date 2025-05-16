@@ -1,0 +1,4 @@
+1. sony presents a gameplay video, featuring generated dungeons, weight = 0.4
+2. bloodborne game exploration by sony, procedural dungeon explanations, weight = 0.3
+3. Bloodborne video by Sony discussing game's generated dungeons, weight = 0.3
+4. Bloodborne video: sony explains game's procedurally generated dungeons, 90-100

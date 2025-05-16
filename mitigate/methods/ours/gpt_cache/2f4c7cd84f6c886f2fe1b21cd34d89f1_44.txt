@@ -1,0 +1,5 @@
+1. tropical beach canvas art, weight = 0.3  
+2. seascape artwork with palms on a beach, weight = 0.3  
+3. modern artwork of the philippines' tropical beach with palms, weight = 0.2  
+4. 5-panel artwork of a seascape with palms on a tropical beach, weight = 0.2  
+5. designart palms on philippines tropical beach modern seascape canvas artwork - 5 panels, 80-100

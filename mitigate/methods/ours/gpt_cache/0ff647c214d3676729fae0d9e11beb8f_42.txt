@@ -1,0 +1,4 @@
+1. shaw floors product pewter, weight = 0.4  
+2. Shaw Floors presenting value collections, weight = 0.3  
+3. Shaw Floors Value Collections Passageway 2 12 Pewter, weight = 0.3  
+4. Shaw Floors Value Collections Passageway 2 12 Pewter, 90-100  

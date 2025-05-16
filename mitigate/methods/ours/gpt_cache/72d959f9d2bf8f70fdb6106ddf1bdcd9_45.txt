@@ -1,0 +1,6 @@
+Sure, here is how you can spread out the prompt "Angel in the Clouds Abstract - Throw Pillow" and gradually recompose it over diffusion timesteps:
+
+1. heavenly figure in clouds, weight = 0.3
+2. angelic presence among abstract clouds, weight = 0.3
+3. angel in an abstract cloud pattern throw pillow, weight = 0.4
+4. Angel in the Clouds Abstract - Throw Pillow, 90-100

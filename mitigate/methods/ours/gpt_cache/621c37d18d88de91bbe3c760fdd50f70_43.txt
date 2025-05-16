@@ -1,0 +1,4 @@
+1. travel gear view, weight = 0.4
+2. rig 9800 travel bag display, weight = 0.3
+3. Rig 9800 bag view number five, weight = 0.3
+4. Rig 9800 Travel Bag - View 5, 90-100

@@ -1,0 +1,4 @@
+1. Shaw Floors rustic flooring, weight = 0.4  
+2. Shaw Floors introduces rustic taupe flooring, weight = 0.3  
+3. Shaw Floors unveils Right Rustic Taupe design, weight = 0.3  
+4. Shaw Floors That's Right Rustic Taupe 00706_E0812, 85-100  

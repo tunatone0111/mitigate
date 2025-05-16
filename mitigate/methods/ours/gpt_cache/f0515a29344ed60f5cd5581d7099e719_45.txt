@@ -1,0 +1,4 @@
+1. charlize theron in film preview, weight = 0.3  
+2. charlize theron in trailer of new movie "dark places", weight = 0.4  
+3. Video featuring Charlize Theron in the trailer for Gillian Flynn’s adaptation "Dark Places", weight = 0.3  
+4. Video: Charlize Theron in trailer for new Gillian Flynn adaptation, "Dark Places", 90-100  

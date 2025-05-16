@@ -1,0 +1,4 @@
+1. dc lineup podcast, weight = 0.4  
+2. DC superheroes podcast gathering, weight = 0.3  
+3. Podcast featuring DC's famous characters, weight = 0.3  
+4. dc all stars podcast, 85-100

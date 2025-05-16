@@ -1,0 +1,4 @@
+1. entrance area painted bright color, weight = 0.4  
+2. Foyer painted in a light shade, weight = 0.3  
+3. foyer colored white, weight = 0.3  
+4. foyer painted in white, 90-100  

@@ -1,0 +1,4 @@
+1. Shaw Floors presenting new flooring design, weight = 0.3  
+2. Shaw Floors displaying special flooring model XV863, weight = 0.3  
+3. Shaw Floors Roll unveils Bare Mineral Model XV863, weight = 0.2  
+4. shaw floors roll special xv863 bare mineral 00105_XV863, 90-100  

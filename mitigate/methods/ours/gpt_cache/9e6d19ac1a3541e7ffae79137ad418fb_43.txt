@@ -1,0 +1,4 @@
+1. artist series shows fantasy tv characters as pin-up girls, weight = 0.4    
+2. artist portrayals of game of thrones figures in pin-up style, weight = 0.3    
+3. game of thrones characters illustrated as pin-up girls in an artistic series, weight = 0.3    
+4. artist's series depicts Game of Thrones characters drawn as pin-up girls, 90-100    

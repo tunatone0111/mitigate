@@ -1,0 +1,4 @@
+1. pleated curtains in new collection, weight = 0.4  
+2. pencil pleat curtains in velvet fabric, weight = 0.3  
+3. Pencil pleat curtains from collection Velvet, fabric type: 704-18, weight = 0.3  
+4. pencil pleat curtains in collection Velvet, fabric: 704-18, 90-100  

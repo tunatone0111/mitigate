@@ -1,0 +1,4 @@
+1. joyful researcher, weight = 0.4  
+2. content scientist, weight = 0.3  
+3. cheerful academic, weight = 0.3  
+4. The Happy Scientist, 85-100  

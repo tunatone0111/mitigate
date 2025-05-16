@@ -1,0 +1,4 @@
+1. pencil pleat drapes in Acapulco series, weight = 0.4  
+2. pencil pleat curtains, Acapulco collection, weight = 0.3  
+3. pencil pleat curtains in collection Acapulco, fabric code 141-37, weight = 0.3  
+4. Pencil pleat curtains, Acapulco collection, fabric: 141-37, 85-100  

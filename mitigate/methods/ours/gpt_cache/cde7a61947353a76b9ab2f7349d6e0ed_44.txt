@@ -1,0 +1,4 @@
+1. neutral tone skull patterns on bed linen, weight = 0.4  
+2. watercolor skull designs on white bedding, weight = 0.3  
+3. beige on white skull-themed bedspread, weight = 0.3  
+4. beige on white watercolor skull bedding, 85-100  

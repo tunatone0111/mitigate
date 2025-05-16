@@ -1,0 +1,4 @@
+1. Axle backpack overview, weight = 0.4  
+2. Axle laptop bag view and features, weight = 0.3  
+3. Axle laptop backpack perspective, weight = 0.3  
+4. Axle Laptop Backpack – View 81, 90-100  

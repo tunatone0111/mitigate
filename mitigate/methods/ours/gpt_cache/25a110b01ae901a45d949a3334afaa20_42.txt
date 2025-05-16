@@ -1,0 +1,4 @@
+1. sarah silverman in a new hbo show, weight = 0.4
+2. Sarah Silverman to headline an HBO pilot, weight = 0.3
+3. Sarah Silverman to star in hbo pilot by secret diary creator, weight = 0.3
+4. Sarah Silverman will star in HBO pilot from the creator of "Secret Diary of a Call Girl", 85-100

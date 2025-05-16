@@ -1,0 +1,4 @@
+1. ranking of various technologies, weight = 0.4  
+2. position of chosen technologies in the market, weight = 0.3  
+3. market standing of chosen tech, weight = 0.3  
+4. market position of the selected technologies, 90-100  

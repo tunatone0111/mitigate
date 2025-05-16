@@ -1,0 +1,4 @@
+1. shaw floors presenting new floor design, weight = 0.4  
+2. Shaw Flooring Gallery showcasing Highland Cove III product, weight = 0.3  
+3. Shaw Flooring Gallery introduces Highland Cove III in sage leaf, weight = 0.3  
+4. Shaw floors, Shaw Flooring Gallery Highland Cove III 12 Sage Leaf 00302_5223G, 85-100 

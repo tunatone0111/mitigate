@@ -1,0 +1,4 @@
+1. fusion value flooring in canyon shadow color, weight = 0.3  
+2. Shaw Floors' Fusion Value 300 in shade canyon shadow, weight = 0.3  
+3. Shaw Flooring option fusion value 300 in canyon shadow, weight = 0.2  
+4. Shaw Floors Fusion Value 300 canyon shadow 00810_E0281, 80-100  

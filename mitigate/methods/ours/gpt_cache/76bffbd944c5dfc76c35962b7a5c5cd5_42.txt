@@ -1,0 +1,8 @@
+Certainly, here's a proposed sequence for the given input prompt:
+
+1. aero wheel model 15x8 inches, weight = 0.3
+2. aero 50 series 15x8 inch wheel, weight = 0.3
+3. aero 50-284730 15x8 inch wheel with 5 on bp 3 inch bs, weight = 0.2
+4. Aero 50-284730 50 Series 15x8 Inch Wheel, 5 on 4-3/4 BP, 3 Inch BS, 88-100
+
+This sequence maintains the semantic meaning while progressively restoring the original detail and specific phrasing.

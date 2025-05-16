@@ -1,0 +1,4 @@
+1. shaw floors introducing new carpet, weight = 0.4  
+2. Shaw Floors showcasing Tyler Taupe style, weight = 0.3  
+3. Shaw Floors spice it up Tyler Taupe, weight = 0.3  
+4. shaw floors spice it up tyler taupe 00103_e9013, 90-100  

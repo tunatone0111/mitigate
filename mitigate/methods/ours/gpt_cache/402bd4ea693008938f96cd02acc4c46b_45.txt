@@ -1,0 +1,4 @@
+1. shaw floors value, weight = 0.3  
+2. Shaw Floors passageway, camel color, weight = 0.3  
+3. Shaw Floors value collections passageway in camel, weight = 0.4  
+4. shaw floors value collections passageway 2 12 camel 00204_E9153, 80-100  

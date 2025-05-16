@@ -1,0 +1,5 @@
+1. Shaw Floors showcasing new designs, weight = 0.3
+2. Shaw Design Center presenting Park Manor collection, weight = 0.3
+3. Shaw Design Center displaying Park Manor Cashew, weight = 0.2
+4. Shaw Design Center Park Manor 12’ Cashew product by Shaw Floors, weight = 0.2
+5. Shaw Floors Shaw Design Center Park Manor 12′ Cashew 00106_QC459, 95-100

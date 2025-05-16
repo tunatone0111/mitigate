@@ -1,0 +1,4 @@
+1. images of artists in video games, weight = 0.4  
+2. screenshots of musicians appearing in gaming, weight = 0.3  
+3. thirty-three images showing musicians in video games, weight = 0.3  
+4. 33 screenshots of musicians in videogames, 90-100  

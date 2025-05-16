@@ -12,6 +12,7 @@ from .prompts import load_prompts
 def main(
     method: Literal[
         "ours",
+        "ours-gpt-only",
         "cvpr25",
         "iclr25",
         "iclr25-2",
@@ -24,7 +25,7 @@ def main(
     ],
     num_inference_steps=100,
     seed=42,
-    dataset: Literal["match_verbatim", "memorized_500"] = "match_verbatim",
+    dataset: Literal["match_verbatim", "memorized_500"] = "memorized_500",
     offset: int = 0,
     limit: int = 0,
     output_dir: str = "output",
@@ -43,6 +44,8 @@ def main(
 
     if method == "ours":
         mitigation = Ours()
+    elif method == "ours-gpt-only":
+        mitigation = Ours(gpt_only=True)
     elif method == "cvpr25":
         mitigation = CVPR25()
     elif method == "iclr25":
@@ -67,8 +70,11 @@ def main(
     prompts = load_prompts(dataset, offset, limit)
 
     for i, prompt in tqdm.tqdm(enumerate(prompts), total=len(prompts)):
-        image = mitigation.mitigate(prompt, num_inference_steps, seed)
-        image.save(os.path.join(output_dir, f"{offset + i:03d}_seed{seed}.png"))
+        if method == "ours-gpt-only":
+            image = mitigation.mitigate(prompt, num_inference_steps, seed)
+        else:
+            image = mitigation.mitigate(prompt, num_inference_steps, seed)
+            image.save(os.path.join(output_dir, f"{offset + i:03d}_seed{seed}.png"))
 
 
 if __name__ == "__main__":

@@ -1,0 +1,4 @@
+1. Shaw Floors presents Tuscan Valley flooring, weight = 0.4  
+2. Shaw Floors introduces Cashmere 00701 flooring, weight = 0.3  
+3. Shaw Floors SFA Tuscan Valley shares new collection, weight = 0.3  
+4. Shaw Floors SFA Tuscan Valley Cashmere 00701_52E29, 90-100  

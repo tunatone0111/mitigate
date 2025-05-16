@@ -1,0 +1,4 @@
+1. stylish shirt, established in 1914, weight = 0.4  
+2. retro ringer t-shirt from 1914, weight = 0.3  
+3. “awesome since 1914” ringer t-shirt, weight = 0.3  
+4. awesome since 1914 ringer t-shirt, 85-100  

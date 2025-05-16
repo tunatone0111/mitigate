@@ -1,0 +1,4 @@
+1. hallway colored in light hue, weight = 0.4  
+2. entryway painted in a bright color, weight = 0.3  
+3. foyer decorated in white, weight = 0.3  
+4. foyer painted in white, 85-100  

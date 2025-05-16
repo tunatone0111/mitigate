@@ -1,0 +1,4 @@
+1. george r.r. martin supporting a cause, wolf sanctuary, weight = 0.3  
+2. George R.R. Martin gives to sanctuary for wolves, weight = 0.3  
+3. George R.R. Martin donates for 13-year-old fan, weight = 0.2  
+4. george r.r. martin donates $10,000 to wolf sanctuary for a young fan, 90-100  

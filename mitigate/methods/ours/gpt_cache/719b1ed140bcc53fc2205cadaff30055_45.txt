@@ -1,0 +1,4 @@
+1. Steve Carell's new film, weight = 0.3
+2. Upcoming movie with Steve Carell set in North Korea, weight = 0.4
+3. Steve Carell movie planned for North Korea canceled by New Regency, weight = 0.3
+4. Future Steve Carell film set in north korea canceled by new regency, 90-100

@@ -1,0 +1,4 @@
+1. Gabriel García Márquez's works moving to texas, weight = 0.4  
+2. Collection of Gabriel García Márquez heading to Austin, weight = 0.3  
+3. Gabriel García Márquez's collection being transferred to Austin, weight = 0.3  
+4. Gabriel García Márquez's collection is going to austin, 85-100  

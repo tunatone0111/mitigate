@@ -1,0 +1,4 @@
+1. entryway colored in ocean shade, weight = 0.4  
+2. foyer painted with a sea-inspired hue, weight = 0.3  
+3. Foyer colored in high tide blue, weight = 0.3  
+4. foyer painted in HIGH TIDE, 90-100  

@@ -1,0 +1,7 @@
+Sure, here's how we could break down the prompt:
+
+### Output:
+1. shaw floors weekend event, weight = 0.4
+2. Shaw Floors All Star Weekend three event, weight = 0.3
+3. Shaw Floors All Star Weekend III featuring Net Royal Purple, weight = 0.3
+4. Shaw Floors All Star Weekend III Net Royal Purple 00902_E0773, 85-100

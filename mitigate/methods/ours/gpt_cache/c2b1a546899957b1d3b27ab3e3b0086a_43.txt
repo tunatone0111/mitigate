@@ -1,0 +1,4 @@
+1. punisher appearing in daredevil season, weight = 0.3  
+2. Punisher joins daredevil’s second season, weight = 0.3  
+3. Punisher in daredevil, wondering about new villain, weight = 0.4  
+4. As Punisher joins Daredevil season two, who will the new villain be, 80-100  

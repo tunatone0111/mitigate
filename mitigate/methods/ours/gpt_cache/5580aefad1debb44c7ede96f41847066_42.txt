@@ -1,0 +1,4 @@
+1. canvas artwork of Bohinj Lake, weight = 0.3  
+2. Bohinj lake seashore in art print, weight = 0.3  
+3. panorama art print showing Bohinj Lake seashore, weight = 0.2  
+4. designart bohinj lake panorama canvas artprint - 6 panels, 80-100  

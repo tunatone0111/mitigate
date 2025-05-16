@@ -1,0 +1,4 @@
+1. inspirational tshirt saying, weight = 0.3  
+2. do more of what brings joy shirt text, weight = 0.3  
+3. motivational t-shirt message: do more of what makes you happier, white on grey, weight = 0.2  
+4. makes you happier t-shirt text: do more of what makes you happier - white on grey from happier place, 90-100  

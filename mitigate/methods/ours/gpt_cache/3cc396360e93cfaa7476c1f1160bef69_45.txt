@@ -1,0 +1,4 @@
+1. Shaw Floors presents unique color selection, weight = 0.4  
+2. Shaw Floors offering Value Collections in varied hues, weight = 0.4  
+3. Shaw Floors Value Collections feature color Moxie Meteorite, weight = 0.2  
+4. Shaw Floors Value Collections color Moxie Meteorite 00501_E9900, 85-100  

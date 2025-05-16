@@ -1,0 +1,4 @@
+1. analysis of chosen technologies, weight = 0.4
+2. assessing position of the chosen technologies in the market, weight = 0.3
+3. market evaluation of selected tech, weight = 0.3
+4. market position of the selected technologies, 90-100

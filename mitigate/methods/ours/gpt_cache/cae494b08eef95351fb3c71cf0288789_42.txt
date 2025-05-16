@@ -1,0 +1,4 @@
+1. casual short-sleeve t-shirt with slogan, weight = 0.3  
+2. unisex shirt reading "money is a defense," weight = 0.3  
+3. MIAD t-shirt featuring slogan "Money Is A Defense", weight = 0.4  
+4. MIAD short-sleeve unisex t-shirt - money is a defense, 85-100  

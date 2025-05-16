@@ -1,0 +1,4 @@
+1. child's laughter ability case, weight = 0.3  
+2. special needs parent iphone design about child's laughter, weight = 0.4  
+3. special needs iphone case for laughing child, weight = 0.3  
+4. my child's ability to laugh is not impaired (special needs parent iphone case), 85-100  

@@ -1,0 +1,4 @@
+1. always sunny team offers life advice, weight = 0.3  
+2. It's always sunny cast writing a self-help guide, weight = 0.3  
+3. the gang from it's always sunny publishing self-help book, weight = 0.2  
+4. It's Always Sunny gang will transform your life with a self-help book, 80-100  

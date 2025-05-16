@@ -1,0 +1,4 @@
+1. vintage ringer t-shirt from the early 1900s, weight = 0.3  
+2. classic tee "awesome since 1910s", weight = 0.3  
+3. stylish ringer shirt proclaiming "awesome since 1914", weight = 0.4  
+4. awesome since 1914 ringer t-shirt, 80-100  

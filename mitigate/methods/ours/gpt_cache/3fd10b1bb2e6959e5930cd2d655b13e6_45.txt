@@ -1,0 +1,4 @@
+1. shaw floors product, weight = 0.3  
+2. Shaw Floors solid flooring, pewter color, weight = 0.3  
+3. Solidify III 15' pewter shaw floors, weight = 0.4  
+4. Shaw Floors Solidify III 15' Pewter 00701_5E267, 85-100  

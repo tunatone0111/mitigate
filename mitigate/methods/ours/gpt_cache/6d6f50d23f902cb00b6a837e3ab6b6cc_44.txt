@@ -1,0 +1,4 @@
+1. Shaw Floors presenting Shingle Creek II carpet, weight = 0.3  
+2. Shaw Floors showcasing Silver Charm carpet, weight = 0.4  
+3. Shaw Floors Shingle Creek II with Silver Charm color, weight = 0.3  
+4. Shaw Floors SFA Shingle Creek II 12' Silver Charm 00500, 80-100

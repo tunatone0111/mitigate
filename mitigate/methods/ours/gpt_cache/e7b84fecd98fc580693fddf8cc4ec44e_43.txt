@@ -1,0 +1,4 @@
+1. laptop bag display, weight = 0.5
+2. axle brand backpack view, weight = 0.3
+3. Axle laptop backpack shown in view, weight = 0.2
+4. axle laptop backpack - view 81, 90-100

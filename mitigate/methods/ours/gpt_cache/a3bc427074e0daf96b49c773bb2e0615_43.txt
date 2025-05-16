@@ -1,0 +1,4 @@
+1. art picture of paris city with red sky, weight = 0.3  
+2. artistic view of eiffel tower and paris cityscape, weight = 0.3  
+3. ultra-glossy wall art featuring paris and eiffel tower, weight = 0.4  
+4. design art stunning view of paris eiffel tower under red sky ultra glossy cityscape circle wall art, 85-100  

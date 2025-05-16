@@ -1,0 +1,4 @@
+1. phil fish's game company compromised, weight = 0.3  
+2. polytron corporation and creator phil fish hacked, weight = 0.4  
+3. Fez creator Phil Fish sees polytron hacked, doxxed, weight = 0.3  
+4. Creator of <i>Fez</i> Phil Fish and Polytron Corporation hacked, doxxed, 85-100  

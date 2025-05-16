@@ -1,0 +1,4 @@
+1. abstract green art piece, weight = 0.3
+2. contemporary canvas of green metal art, weight = 0.3
+3. green abstract metal artwork on canvas, weight = 0.2
+4. Designart green abstract metal grill contemporary art on canvas, 5 panels, 85-100

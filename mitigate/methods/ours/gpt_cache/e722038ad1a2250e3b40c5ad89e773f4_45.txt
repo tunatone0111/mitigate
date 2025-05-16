@@ -1,0 +1,4 @@
+1. cheerful shirt quote do more be happy, weight = 0.4  
+2. "Do more of what makes you joyful" in white text on gray shirt, weight = 0.3  
+3. do more of what makes one happier, white on grey shirt, weight = 0.3  
+4. do more of what makes you happier t-shirt text - white on grey - happier place, 85-100  

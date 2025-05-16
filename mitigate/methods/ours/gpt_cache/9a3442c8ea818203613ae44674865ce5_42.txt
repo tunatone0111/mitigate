@@ -1,0 +1,4 @@
+1. golden girls tv show memes, weight = 0.4  
+2. classic memes and quotes from golden girls, weight = 0.3  
+3. timeless golden girls quotes and memes, weight = 0.3  
+4. 25 timeless Golden Girls memes and memorable quotes, 85-100 

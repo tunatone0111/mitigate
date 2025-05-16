@@ -1,0 +1,4 @@
+1. Barbie inspired artwork, famous paintings, weight = 0.3
+2. Barbie as the subject of renowned paintings, weight = 0.3
+3. Famous paintings featuring Barbie's likeness, weight = 0.4
+4. If barbie were the face of the world's most celebrated paintings, 85-100

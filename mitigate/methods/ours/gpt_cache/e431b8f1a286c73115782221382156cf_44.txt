@@ -1,0 +1,4 @@
+1. breaking bad audience to contact Saul via billboard, weight = 0.3  
+2. breaking bad enthusiasts get opportunity to call saul, weight = 0.4  
+3. Breaking Bad fans offered chance to call Saul with a billboard in Albuquerque, weight = 0.3  
+4. Breaking Bad fans get a chance to call Saul with Albuquerque billboard, 90-100  

@@ -1,0 +1,4 @@
+1. shaw floors introducing new carpet, weight = 0.4  
+2. Shaw Floors showcasing the awesome 4 linen collection, weight = 0.3  
+3. sfa awesome 4 linen by shaw floors model 00104 E0741, weight = 0.3  
+4. Shaw Floors SFA Awesome 4 Linen 00104_E0741, 90-100  

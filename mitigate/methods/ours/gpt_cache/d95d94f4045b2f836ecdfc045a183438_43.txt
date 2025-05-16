@@ -1,0 +1,7 @@
+Sure, here's how we could break down the prompt:
+
+### Output:
+1. shaw floors special roll, weight = 0.4
+2. Shaw Floors introduces special roll in royal purple, weight = 0.3
+3. Shaw Floors showcases Royal Purple roll, weight = 0.3
+4. Shaw Floors Roll special XV375 Royal Purple 00902_XV375, 90-100

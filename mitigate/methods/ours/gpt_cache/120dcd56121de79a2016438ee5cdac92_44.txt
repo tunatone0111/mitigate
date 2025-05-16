@@ -1,0 +1,4 @@
+1. John W Doyle provides audio guidance, weight = 0.4  
+2. Sound Guidance from John W Doyle, weight = 0.3  
+3. Sound advice series featuring John W Doyle, weight = 0.3  
+4. Sound Advice with John W Doyle, 90-100  

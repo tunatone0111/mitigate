@@ -1,0 +1,4 @@
+1. aero red series wheel, weight = 0.4  
+2. aero spun lite 13x10 wheel, weight = 0.3  
+3. Aero 31-904030RED 31 series wheel, 4 on 4 bp, weight = 0.3  
+4. aero 31-904030red 31 series 13x10 wheel, spun lite, 4 on 4 bp, 3 bs, 85-100  

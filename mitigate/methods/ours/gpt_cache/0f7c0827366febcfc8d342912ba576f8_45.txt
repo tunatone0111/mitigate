@@ -1,0 +1,4 @@
+1. director of x-men joins new project, weight = 0.3  
+2. X-Men: Days of Future Past director joins vince gilligan's new tv show, weight = 0.4  
+3. Director of X-Men: Days of Future Past collaborates on Battle Creek pilot, weight = 0.3  
+4. x-men: days of future past director joins vince gilligan's battle creek pilot, 85-100  

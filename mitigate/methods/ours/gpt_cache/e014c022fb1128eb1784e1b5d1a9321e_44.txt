@@ -1,0 +1,4 @@
+1. backpack model view, weight = 0.4
+2. FUSE 25 backpack, view 71, weight = 0.3
+3. FUSE Backpack 25 model - view 71, final refinement, weight = 0.3
+4. FUSE Backpack 25 - view 71, 85-100

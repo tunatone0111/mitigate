@@ -1,0 +1,4 @@
+1. pleat curtains in the Jupiter line, weight = 0.3  
+2. pencil pleat drapes in collection jupiter, weight = 0.3  
+3. pencil pleat curtains from the jupiter collection, fabric: 127-00, weight = 0.2  
+4. pencil pleat curtains in collection jupiter, fabric: 127-00, 90-100  

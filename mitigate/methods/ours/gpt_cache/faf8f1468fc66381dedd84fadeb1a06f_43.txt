@@ -1,0 +1,4 @@
+1. new sequel project, weight = 0.3  
+2. Mrs. Doubtfire sequel being planned, weight = 0.4  
+3. a new Mrs. Doubtfire sequel is in development, weight = 0.3  
+4. there's a Mrs. Doubtfire sequel in the works, 85-100  

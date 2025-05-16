@@ -1,0 +1,4 @@
+1. sony discusses features in bloodborne, weight = 0.4
+2. Sony video explaining bloodborne's random dungeons, weight = 0.3
+3. bloodborne video from sony on the game's dungeons, weight = 0.3
+4. Video by Sony explains bloodborne's procedurally created dungeons, 85-100

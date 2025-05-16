@@ -1,0 +1,4 @@
+1. backpack view, weight = 0.4  
+2. FUSE backpack version 25 and 21 viewed, weight = 0.3  
+3. fuse backpack 25 in view 21, weight = 0.3  
+4. FUSE backpack 25 - view 21, 80-100  

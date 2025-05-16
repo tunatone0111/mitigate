@@ -1,0 +1,4 @@
+1. display image gallery with bmw seat covers, weight = 0.3  
+2. BMW X6 seat covers in a camouflage design, weight = 0.3  
+3. load photo into gallery viewer of BMW X6 covers - camouflage, weight = 0.4  
+4. Load image into gallery viewer, BMW X6 seat covers - camouflage, 85-100  

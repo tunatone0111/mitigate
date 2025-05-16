@@ -1,0 +1,4 @@
+1. travel luggage, weight = 0.4  
+2. rig 9800 bag, view 51 suitcase, weight = 0.3  
+3. Rig 9800 travel bag, perspective 51, weight = 0.3  
+4. Rig 9800 Travel Bag - View 51, 85-100  

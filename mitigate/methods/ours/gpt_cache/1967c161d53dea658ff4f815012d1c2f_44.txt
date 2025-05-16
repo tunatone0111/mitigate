@@ -1,0 +1,4 @@
+1. shaw floors nfa apg product, weight = 0.3  
+2. Shaw Floors Color Express II model 00712, weight = 0.3  
+3. Shaw Floors Nfa/Apg Color Express II suitable model NA209, weight = 0.4  
+4. shaw floors nfa apg color express II suitable 00712_na209, 90-100  

@@ -1,0 +1,4 @@
+1. cooling devices and components, weight = 0.4   
+2. air cooling systems and accessories, weight = 0.3  
+3. air conditioning units and parts, weight = 0.3  
+4. air conditioners & parts, 90-100  

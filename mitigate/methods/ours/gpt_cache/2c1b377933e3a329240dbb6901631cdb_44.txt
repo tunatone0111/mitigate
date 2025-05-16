@@ -1,0 +1,4 @@
+1. chris robinson creating a beverage, weight = 0.4  
+2. Chris Robinson crafting a beer, weight = 0.3  
+3. chris robinson from the black crowes brewing a beer, weight = 0.3  
+4. Chris Robinson (of the Black Crowes) brews a beer, 85-100  

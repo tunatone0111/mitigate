@@ -1,0 +1,4 @@
+1. dog print seat covers, weight = 0.4  
+2. terrier-themed car seat covers, free delivery, weight = 0.3  
+3. Cairn terrier car seat covers, free shipping, weight = 0.3  
+4. cairn terrier print car seat covers, free shipping, 85-100

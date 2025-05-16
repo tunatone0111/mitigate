@@ -1,0 +1,4 @@
+1. Aretha Franklin suing over satirical article, weight = 0.3  
+2. Aretha Franklin files lawsuit about Patti LaBelle fight story, weight = 0.3  
+3. Aretha Franklin seeking $10 million over story on satire website, weight = 0.4  
+4. Aretha Franklin files $10 million suit over Patti LaBelle fight story on satire website, 85-100  

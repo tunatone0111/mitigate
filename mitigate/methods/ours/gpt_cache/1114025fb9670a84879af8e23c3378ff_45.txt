@@ -1,0 +1,4 @@
+1. shaw floors showcasing acorn flooring, weight = 0.4  
+2. Shaw Design Center displaying moment of truth flooring, weight = 0.3  
+3. Shaw Floors presents design center's acorn 00700 flooring, weight = 0.3  
+4. shaw floors shaw design center reveals moment of truth acorn 00700_5c789, 85-100  

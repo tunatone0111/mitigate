@@ -1,0 +1,4 @@
+1. simple pillow with gradient design, weight = 0.4  
+2. gradient pillow with turquoise and purple hues, weight = 0.3  
+3. simple background of gradient turquoise and blue-purple pillow, weight = 0.3  
+4. Simple background gradient turquoise blue purple pillow, 80-100  

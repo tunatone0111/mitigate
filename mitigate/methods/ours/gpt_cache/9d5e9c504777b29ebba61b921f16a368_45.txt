@@ -1,0 +1,4 @@
+1. curtain with pencil pleat in fabric selection, weight = 0.4  
+2. pencil pleat drapery in Edinburgh collection, weight = 0.3  
+3. Pencil pleat curtain from edinburgh collection, fabric: 142-31, weight = 0.3  
+4. Pencil pleat curtain in collection Edinburgh, fabric: 142-31, 85-100  

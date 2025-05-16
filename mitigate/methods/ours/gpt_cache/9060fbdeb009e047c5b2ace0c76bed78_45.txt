@@ -1,0 +1,4 @@
+1. shaw floors introducing new carpet series, weight = 0.3  
+2. Shaw Floors elemental mix, style pixels, weight = 0.3  
+3. Shaw Floors Foundations Elemental Mix II, design Pixels 00170_E9565, weight = 0.4  
+4. shaw floors foundations elemental mix II pixels 00170_e9565, 90-100  

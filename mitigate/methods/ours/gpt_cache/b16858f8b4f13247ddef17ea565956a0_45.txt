@@ -1,0 +1,4 @@
+1. kimi phone accessory unknown, weight = 0.4  
+2. Kimi unsure phone cover, weight = 0.3  
+3. Phone case titled Kimi Doesn’t Know, weight = 0.3  
+4. Kimi doesn't know phone case, 85-100  

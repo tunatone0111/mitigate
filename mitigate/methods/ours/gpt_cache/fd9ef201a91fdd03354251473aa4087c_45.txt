@@ -1,0 +1,4 @@
+1. be cautious with unisex tee, weight = 0.4  
+2. be careful short sleeve t-shirt, weight = 0.3  
+3. carefully designed unisex short-sleeve shirt, weight = 0.3  
+4. be careful short-sleeve unisex t-shirt, 90-100  

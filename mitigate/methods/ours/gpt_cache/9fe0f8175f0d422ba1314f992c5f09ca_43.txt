@@ -1,0 +1,6 @@
+Sure, here's how we can break down the prompt with gradual restoration and weights:
+
+1. special roll by Shaw Floors, sugar cookie shade, weight = 0.3
+2. Shaw Floors roll special in Sugar Cookie color, weight = 0.3
+3. Shaw Floors' special roll Xy176, sugar cookie, weight = 0.2
+4. Shaw Floors Roll Special Xy176 Sugar Cookie 00101_XY176, 80-100

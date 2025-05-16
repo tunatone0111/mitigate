@@ -1,0 +1,4 @@
+1. aero 50 series automotive wheel, weight = 0.4  
+2. 15x12 wheel, 5 bolt pattern, 5 inch backspacing, weight = 0.3  
+3. Aero 50 series 15x12 wheel with 5 on 4-3/4 bolt pattern and 5 inch backspacing, weight = 0.3  
+4. Aero 50-924750ORG 50 series 15x12 wheel, 5 on 4-3/4 BP, 5 inch BS, 85-100  

@@ -1,0 +1,4 @@
+1. shaw floors showcasing, weight = 0.3  
+2. Shaw flooring gallery inspired, weight = 0.3  
+3. Shaw flooring gallery influenced by french linen, weight = 0.2  
+4. shaw floors shaw gallery inspired by II french linen 00103_5560G, 80-100

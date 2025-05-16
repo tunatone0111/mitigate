@@ -1,0 +1,4 @@
+1. Shaw Floors presenting Shingle Creek product, weight = 0.3  
+2. Shaw Floors SFA showing Shingle Creek Mojave model, weight = 0.3  
+3. Shaw Floors with SFA Shingle Creek Iv Mojave display, weight = 0.2  
+4. Shaw Floors SFA Shingle Creek Iv 15' Mojave 00301_EA519, 80-100  

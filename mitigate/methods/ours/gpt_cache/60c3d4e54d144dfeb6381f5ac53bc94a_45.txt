@@ -1,0 +1,4 @@
+1. aquatic creature on a cushion, weight = 0.4  
+2. octopus design on a pillow, weight = 0.3  
+3. octopus swimming depicted on throw pillow, weight = 0.3  
+4. octopus swimming throw pillow, 90-100  

@@ -1,0 +1,4 @@
+1. mother impacts young hippo, weight = 0.4  
+2. maternal effect on young hippo, weight = 0.3  
+3. A mother's guidance on her young hippo, weight = 0.3  
+4. Mothers influence on her young hippo, 90-100  

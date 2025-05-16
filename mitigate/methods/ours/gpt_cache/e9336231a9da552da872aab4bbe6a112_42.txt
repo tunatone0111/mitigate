@@ -1,0 +1,4 @@
+1. Discover a new F. Scott Fitzgerald story, weight = 0.4  
+2. Reading an unreleased F. Scott Fitzgerald tale, weight = 0.3  
+3. Previously unseen story by F. Scott Fitzgerald, weight = 0.3  
+4. Read an unpublished F. Scott Fitzgerald story, 85-100  

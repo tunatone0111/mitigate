@@ -1,0 +1,4 @@
+1. shaw floors color express project, weight = 0.3  
+2. Shaw Floors' Nfa/Apg Color initiative, weight = 0.3  
+3. Shaw Floors Nfa/Apg Color Express II range, weight = 0.2  
+4. Shaw Floors Nfa/Apg Color Express II Suitable 00712_NA209, 80-100  

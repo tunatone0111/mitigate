@@ -1,0 +1,4 @@
+1. donna tartt's novel getting a movie, weight = 0.3  
+2. film adaptation of The Goldfinch, weight = 0.3  
+3. Donna Tartt's The Goldfinch receives film adaptation, weight = 0.4  
+4. donna tartt's "the goldfinch" scores a film adaptation, 85-100  

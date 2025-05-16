@@ -1,0 +1,4 @@
+1. backpack view, weight = 0.4  
+2. FUSE backpack version 25 and its design called view 71, weight = 0.3  
+3. FUSE Backpack 25 in view 71, weight = 0.3  
+4. FUSE Backpack 25 - View 71, 90-100

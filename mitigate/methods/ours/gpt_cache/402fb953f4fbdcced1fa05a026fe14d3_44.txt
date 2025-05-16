@@ -1,0 +1,4 @@
+1. fuse backpack model, weight = 0.4
+2. view of fuse backpack 25, weight = 0.3
+3. FUSE Backpack 25 in different angle, weight = 0.3
+4. fuse backpack 25 - view 41, 80-100

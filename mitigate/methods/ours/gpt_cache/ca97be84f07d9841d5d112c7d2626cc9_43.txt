@@ -1,0 +1,4 @@
+1. classic t-shirt design inspired, weight = 0.4  
+2. retro style t-shirt proclaiming awesome since 1914, weight = 0.3  
+3. vintage ringer t-shirt labeled awesome since 1914, weight = 0.3  
+4. awesome since 1914 ringer t-shirt, 90-100  

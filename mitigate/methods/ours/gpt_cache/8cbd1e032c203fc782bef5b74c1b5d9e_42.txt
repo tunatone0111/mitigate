@@ -1,0 +1,4 @@
+1. collection of curtains with tab tops, weight = 0.4  
+2. mirella curtain collection, fabric number 141-11, weight = 0.3  
+3. tab top curtains in the mirella collection, fabric code 141-11, weight = 0.3  
+4. tab top curtains in collection Mirella, fabric: 141-11, 90-100  

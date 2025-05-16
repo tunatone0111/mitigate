@@ -1,0 +1,5 @@
+### Output:
+1. shaw floors carpet sample, grey color, weight = 0.3
+2. Shaw Floors product “Simply The Best” in Grey, weight = 0.3
+3. Shaw Floors Simply The Best Within Reach III in Grey, weight = 0.4
+4. Shaw Floors Simply The Best Within Reach III grey fox 00504_5E261, 90-100

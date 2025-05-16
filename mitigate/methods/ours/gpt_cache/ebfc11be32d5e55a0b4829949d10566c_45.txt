@@ -1,0 +1,4 @@
+1. new king or queen phone cover, weight = 0.4  
+2. latest iphone case with king and queen design, weight = 0.3  
+3. new iphone cover king queen style, weight = 0.3  
+4. new king / queen iphone case, 85-100  

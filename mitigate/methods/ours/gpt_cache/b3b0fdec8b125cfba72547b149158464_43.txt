@@ -1,0 +1,4 @@
+1. Shaw Floors showcasing intricate designs, weight = 0.4
+2. Detailed artistry by Shaw Floors in Snowcap style, weight = 0.3
+3. Shaw Floors' NFA/APG artistry featuring Snowcap, weight = 0.3
+4. Shaw Floors NFA/APG detailed artistry Snowcap 00179_NA328, 85-100

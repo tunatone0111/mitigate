@@ -1,0 +1,4 @@
+1. annabel green area rug by bungalow, weight = 0.4  
+2. green and beautiful area rug from bungalow rose, weight = 0.3  
+3. annabel green rug made by bungalow rose, weight = 0.3  
+4. Annabel Green Area Rug by Bungalow Rose, 85-100  

@@ -1,0 +1,4 @@
+1. vulture against sky case, weight = 0.3  
+2. phone case featuring a lappetfaced vulture, weight = 0.3  
+3. Lappetfaced vulture on a blue sky phone case, weight = 0.4  
+4. lappetfaced vulture against blue sky iphone 7 plus case, 85-100  

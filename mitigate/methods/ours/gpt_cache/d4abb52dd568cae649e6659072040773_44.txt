@@ -1,0 +1,4 @@
+1. ava duvernay opts out from directing a superhero film, weight = 0.4  
+2. Ava DuVernay not directing Black Panther, weight = 0.3  
+3. Ava DuVernay decides not to take on Black Panther, weight = 0.3  
+4. Ava DuVernay won't direct Black Panther, 90-100  

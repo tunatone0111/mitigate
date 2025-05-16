@@ -1,0 +1,4 @@
+1. entryway colored in warm tones, weight = 0.4 
+2. hallway painted in earthy shade, weight = 0.3 
+3. foyer coated in light brown, weight = 0.3 
+4. foyer painted in brown bag, 85-100

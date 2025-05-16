@@ -1,0 +1,4 @@
+1. various musicians featured in games, weight = 0.3  
+2. images of artists in video games, weight = 0.2  
+3. musicians appearing in gaming screenshots, weight = 0.3  
+4. Thirty-three shares of musicians within video games, 85-100  

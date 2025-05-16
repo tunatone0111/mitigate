@@ -1,0 +1,4 @@
+1. george r.r. martin writing new book, weight = 0.3  
+2. george r.r. martin concentrating on new novel, weight = 0.3  
+3. George R.R. Martin to focus on penning next book, weight = 0.4  
+4. george r.r. martin to focus on writing next book, world rejoices, 85-100  

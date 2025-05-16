@@ -1,0 +1,4 @@
+1. dc podcast featuring stars, weight = 0.4  
+2. all-star podcast episode from dc, weight = 0.3  
+3. dc all stars podcast show, weight = 0.3  
+4. DC all stars podcast, 80-100  

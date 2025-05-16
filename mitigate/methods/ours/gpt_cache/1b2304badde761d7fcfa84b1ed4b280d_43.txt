@@ -1,0 +1,4 @@
+1. RSS backpack view, weight = 0.4  
+2. Renegade RSS laptop bag, weight = 0.3  
+3. View of Renegade RSS laptop backpack, weight = 0.3  
+4. renegade rss laptop backpack, view 4, 80-100  

@@ -1,0 +1,4 @@
+1. it's always sunny team writes new book, weight = 0.4  
+2. self-improvement book by it's always sunny group, weight = 0.3  
+3. the it's always sunny gang penning self-help guide, weight = 0.3  
+4. it's always sunny gang will transform your life with a self-help book, 90-100  

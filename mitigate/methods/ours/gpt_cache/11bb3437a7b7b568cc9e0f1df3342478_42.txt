@@ -1,0 +1,4 @@
+1. the dead weather performing new song, weight = 0.4  
+2. hear the Dead Weather's latest track, weight = 0.3  
+3. the dead weather unveils new song "buzzkill(er)" , weight = 0.3  
+4. Listen to The Dead Weather's new track "Buzzkill(er)", 95-100  

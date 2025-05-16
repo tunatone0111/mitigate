@@ -1,0 +1,4 @@
+1. air coolers and components, weight = 0.4  
+2. air conditioning units and parts, weight = 0.3  
+3. pieces of air conditioning systems, weight = 0.3  
+4. air conditioners and parts, 90-100  

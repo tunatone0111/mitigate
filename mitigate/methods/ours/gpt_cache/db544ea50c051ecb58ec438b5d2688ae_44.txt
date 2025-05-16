@@ -1,0 +1,4 @@
+1. Shaw floors product, weight = 0.4  
+2. Shaw presenting Caress cashmere style, weight = 0.3  
+3. Shaw floors caress collection, weight = 0.3  
+4. Shaw floors Caress by Shaw Cashmere IV Bison 00707_CCS04, 80-100  

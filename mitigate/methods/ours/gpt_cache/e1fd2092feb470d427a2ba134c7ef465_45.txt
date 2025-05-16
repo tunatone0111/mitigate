@@ -1,0 +1,4 @@
+1. artistic light in vibrant forest scene, weight = 0.3  
+2. design artwork of a large circle in foggy autumn forest, weight = 0.3  
+3. Dense fall forest with oversized circle wall art, weight = 0.4  
+4. design art lighting in dense fall forest with fog, ultra-vibrant landscape, oversized circle wall art, 85-100

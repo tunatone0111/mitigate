@@ -1,0 +1,4 @@
+1. flooring by shaw in taupe color, weight = 0.4  
+2. Shaw Floors product called Tyler Taupe, weight = 0.3  
+3. Shaw Floors item "Spice It Up" in Tyler Taupe, weight = 0.3  
+4. shaw floors spice it up tyler taupe 00103_e9013, 90-100  

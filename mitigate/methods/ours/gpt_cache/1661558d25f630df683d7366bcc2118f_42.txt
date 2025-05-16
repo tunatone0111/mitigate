@@ -1,0 +1,4 @@
+1. collection of musicians featured in videogames, weight = 0.3  
+2. various images depicting musicians in video games, weight = 0.4  
+3. gallery of 33 screenshots with musicians in video games, weight = 0.3  
+4. 33 screenshots of musicians in videogames, 85-100  

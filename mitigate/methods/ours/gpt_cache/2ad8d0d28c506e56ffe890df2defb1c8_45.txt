@@ -1,0 +1,4 @@
+1. survived rebranding t-shirt, weight = 0.4  
+2. unisex t-shirt called "I Survived a Rebrand", weight = 0.3  
+3. I Survived a Rebrand unisex shirt, weight = 0.3  
+4. I Survived a Rebrand unisex t-shirt, 90-100  

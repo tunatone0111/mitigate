@@ -1,0 +1,4 @@
+1. gathering-themed cushion, weight = 0.4  
+2. come together pillow, weight = 0.3  
+3. come together throw cushion, weight = 0.3  
+4. Come Together - throw pillow, 85-100  

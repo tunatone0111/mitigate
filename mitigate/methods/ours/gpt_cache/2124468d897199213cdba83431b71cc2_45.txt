@@ -1,0 +1,4 @@
+1. unisex clothing item, weight = 0.4  
+2. fashion piece titled empowered, weight = 0.3  
+3. empowered T-Shirt for all genders, weight = 0.3  
+4. EMPOWERED unisex t-shirt, 85-100  

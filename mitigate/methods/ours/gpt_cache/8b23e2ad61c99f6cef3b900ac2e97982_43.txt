@@ -1,0 +1,4 @@
+1. shaw floors introduce new flooring, weight = 0.3  
+2. Make It Yours collection by Shaw Floors, weight = 0.4  
+3. Shaw Floors presents Make It Yours series dockside 00752_E0819, weight = 0.3  
+4. Shaw Floors Make It Yours series Dockside 00752_E0819, 85-100

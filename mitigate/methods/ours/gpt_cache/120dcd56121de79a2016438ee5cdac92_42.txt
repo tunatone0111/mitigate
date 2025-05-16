@@ -1,0 +1,4 @@
+1. John W Doyle offering practical guidance, weight = 0.4
+2. Advisory session with John W Doyle, weight = 0.3
+3. Sound advice series featuring John W Doyle, weight = 0.3
+4. sound advice with John W Doyle, 90-100

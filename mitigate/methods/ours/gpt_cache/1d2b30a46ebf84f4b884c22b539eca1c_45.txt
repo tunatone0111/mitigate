@@ -1,0 +1,4 @@
+1. shaw floors stone works glacier, weight = 0.3  
+2. Shaw Floors residential stone works flooring, weight = 0.4  
+3. Shaw Floors resilient residential Stone Works 720c shares new collection, weight = 0.3  
+4. Shaw Floors resilient residential Stone Works 720c Plus Glacier 00147_525SA, 90-100  

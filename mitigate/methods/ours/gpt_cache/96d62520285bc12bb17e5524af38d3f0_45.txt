@@ -1,0 +1,4 @@
+1. Special needs parent, child laughing, weight = 0.4  
+2. Parent of a special needs child sharing joy, weight = 0.3  
+3. Parent's message about child's laughter and special needs, weight = 0.3  
+4. My child's ability to laugh is not impaired (special needs parent iPhone case), 85-100  

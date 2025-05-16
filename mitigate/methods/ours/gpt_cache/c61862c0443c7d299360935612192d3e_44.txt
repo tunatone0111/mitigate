@@ -1,0 +1,4 @@
+1. pencil pleat drapery from sunny range, weight = 0.4  
+2. Pencil pleat curtain in the Sunny collection, material: 143-43, weight = 0.3  
+3. Pleated curtain from the collection named Sunny, fabric code 143/43, weight = 0.3  
+4. Pencil pleat curtain in collection sunny, fabric: 143-43, 80-100  

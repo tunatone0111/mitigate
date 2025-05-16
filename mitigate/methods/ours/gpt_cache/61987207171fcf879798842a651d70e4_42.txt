@@ -1,0 +1,4 @@
+1. Insert image into viewer, camouflage car seat covers, weight = 0.4  
+2. BMW X6 with camouflage seat covers, weight = 0.3  
+3. Display BMW X6 camouflage seat covers in gallery viewer, weight = 0.3  
+4. Load image into gallery viewer, BMW X6 Seat Covers - Camouflage, 85-100  

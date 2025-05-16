@@ -1,0 +1,4 @@
+1. aero wheel, 13x7 inch, basic model, weight = 0.3  
+2. Aero 30 series wheel, shares size and bolt pattern details, weight = 0.3  
+3. Aero 30 series 13x7-inch wheel, 4 on 4-1/4 bp, weight = 0.2  
+4. Aero 30-974230BLK 30 Series 13x7 inch wheel, 4 on 4-1/4 BP 3 inch BS, 87-100 

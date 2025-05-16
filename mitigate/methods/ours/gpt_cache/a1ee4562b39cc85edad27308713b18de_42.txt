@@ -1,0 +1,4 @@
+1. shift or get shifted shirt, weight = 0.5  
+2. move or get moved gender-neutral t-shirt, weight = 0.3  
+3. unisex tee with “move or you will be moved” phrase, weight = 0.2  
+4. move or you will be moved unisex tee, 85-100  

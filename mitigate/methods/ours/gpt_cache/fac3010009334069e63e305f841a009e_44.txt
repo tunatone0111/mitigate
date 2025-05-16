@@ -1,0 +1,4 @@
+1. aero 52 series automotive wheel 15x8, weight = 0.3
+2. Aero 52 wheel with 5 bolt pattern, weight = 0.3
+3. Aero 52-985030GOL series 15x8 wheel, 5 on 5 bolt pattern, weight = 0.2
+4. Aero 52-985030GOL 15x8 inch wheel, 5 on 5 BP, 3 inch backspacing IMCA, 85-100

@@ -1,0 +1,4 @@
+1. aero wheel with specific dimensions, weight = 0.4  
+2. Aero 53 series wheel, 15x8 with 5 on 4-3/4 configuration, weight = 0.3  
+3. Aero 53 wheel, size 15x8, 5 on 4-3/4, wissota 1 bs, weight = 0.3  
+4. Aero 53 series 15x8 wheel, BL, 5 on 4-3/4, 1 BS Wissota, 85-100  

@@ -1,0 +1,4 @@
+1. shaw floors new design, weight = 0.4  
+2. Shaw Floors pure waters product, weight = 0.3  
+3. Shaw Floors pure waters 15 clam shell, weight = 0.3  
+4. Shaw Floors Pure Waters 15 Clam Shell product, 90-100  

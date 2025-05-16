@@ -1,0 +1,5 @@
+1. art piece of road in dense woods, weight = 0.2  
+2. forest pathway artwork with five sections, weight = 0.3  
+3. modern canvas art featuring a road through thick woods, weight = 0.3  
+4. Forest canvas art with five panels showing a road in dense woods, weight = 0.2  
+5. designart forest road in thick woods modern canvas art - 5 panels, 90-100  

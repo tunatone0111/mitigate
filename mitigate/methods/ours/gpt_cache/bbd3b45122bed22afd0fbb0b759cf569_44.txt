@@ -1,0 +1,4 @@
+1. pencil pleat drapes in collection, weight = 0.3  
+2. blackout curtains with pencil pleats, weight = 0.3  
+3. pencil pleat curtains, fabric 269-12, weight = 0.4  
+4. pencil pleat curtains in Blackout collection, fabric: 269-12, 90-100  

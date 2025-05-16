@@ -1,0 +1,4 @@
+1. shaw floors showcasing flooring, weight = 0.3  
+2. shaw floors introduces texture II hickory, weight = 0.3  
+3. Shaw Floors displaying floor texture II net hickory 00711_5e067, weight = 0.4  
+4. shaw floors value collections take the floor texture II net hickory 00711_5E067, 80-100  

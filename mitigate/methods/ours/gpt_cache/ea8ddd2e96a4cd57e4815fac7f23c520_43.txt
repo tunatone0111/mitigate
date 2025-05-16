@@ -1,0 +1,4 @@
+1. daft punk and jay z team up, weight = 0.3  
+2. jay z collaborating with daft punk on music, weight = 0.3  
+3. Daft Punk and Jay Z collaborate on computerized song, weight = 0.4  
+4. daft punk, jay z collaborate on “computerized”, 85-100  

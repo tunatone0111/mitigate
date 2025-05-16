@@ -1,0 +1,4 @@
+1. shaw floors comfort search in lilac field, weight = 0.4
+2. Find Your Comfort with shaw floors in lilac field, weight = 0.3
+3. Shaw Floors SFA find comfort in lilac field (t), weight = 0.3
+4. Shaw Floors SFA Find Your Comfort Tt I Lilac Field (t) 901T_EA817, 90-100

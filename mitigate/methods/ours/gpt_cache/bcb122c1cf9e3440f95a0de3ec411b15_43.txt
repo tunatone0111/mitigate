@@ -1,0 +1,4 @@
+1. shaw floors carpeting, weight = 0.4  
+2. Shaw Floors queen point carpeting in flax seed color, weight = 0.3  
+3. Shaw Floors Queen Point Guard 12’ carpet in flax seed 00103 Q4855, weight = 0.3  
+4. Shaw Floors Queen Point Guard 12′ Flax Seed 00103_Q4855, 90-100  

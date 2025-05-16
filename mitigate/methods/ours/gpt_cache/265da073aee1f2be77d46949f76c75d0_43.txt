@@ -1,0 +1,4 @@
+1. sony delays movie release, weight = 0.4  
+2. Sony decides against releasing on demand, weight = 0.3  
+3. Sony postpones releasing "The Interview" on vod, weight = 0.3  
+4. sony won't release "The Interview" on VOD, 85-100

@@ -1,0 +1,4 @@
+1. kimi unknown phone case, weight = 0.4  
+2. phone case with theme "Kimi doesn't know", weight = 0.3  
+3. phone case titled Kimi Doesn't Know, weight = 0.3  
+4. Kimi Doesn't Know - phone case, 90-100  

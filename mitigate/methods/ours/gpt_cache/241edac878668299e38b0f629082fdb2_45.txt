@@ -1,0 +1,4 @@
+1. sylvester stallone talks about new movies, weight = 0.4  
+2. Rambo 5 and new Rocky spin-off updates, weight = 0.3  
+3. updates from Sylvester Stallone on Rambo 5 and spin-off, weight = 0.3  
+4. Rambo 5 and Rocky Spin-Off, Sylvester Stallone shares updates, 85-100  

@@ -1,0 +1,4 @@
+1. travel bag model overview, weight = 0.5  
+2. Rig 9800 travel bag, weight = 0.3  
+3. Rig 9800 travel luggage - overview 51, weight = 0.2  
+4. Rig 9800 Travel Bag - View 51, 90-100  

@@ -1,0 +1,5 @@
+1. green veins marble art, weight = 0.3  
+2. abstract green marble canvas, weight = 0.3  
+3. Clear green veins in marble art on canvas, weight = 0.2  
+4. Designart's abstract canvas with green marble veins, weight = 0.2  
+5. Designart clear green veins of marble abstract canvas art print, 85-100  

@@ -1,0 +1,4 @@
+1. south park game assessment, weight = 0.4  
+2. evaluation of south park the stick of truth on multiple platforms, weight = 0.3  
+3. review of south park: the stick of truth across various platforms, weight = 0.3  
+4. South Park – The Stick of Truth review (multi-platform), 80-100  

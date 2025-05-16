@@ -1,0 +1,4 @@
+1. netflix signs agreement for improved network, weight = 0.3  
+2. Netflix and AT&T collaborate for improved streaming, weight = 0.3  
+3. Netflix strikes agreement with AT&T for faster streams, weight = 0.4  
+4. Netflix strikes deal with AT&T for enhanced streaming, 90-100

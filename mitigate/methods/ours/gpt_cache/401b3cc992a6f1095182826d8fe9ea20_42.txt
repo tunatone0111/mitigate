@@ -1,0 +1,4 @@
+1. entrance area painted in deep blue, weight = 0.5  
+2. main entry painted in a rich blue shade, weight = 0.3  
+3. Foyer painted in a vivid color called HIGH TIDE, weight = 0.2  
+4. foyer painted in the color high tide, 85-100  

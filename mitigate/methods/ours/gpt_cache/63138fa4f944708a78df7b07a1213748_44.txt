@@ -1,0 +1,4 @@
+1. abstract wall art with green patterns, weight = 0.3  
+2. green geometric lights on foggy background, weight = 0.3  
+3. Green fractal lights creating abstract art, weight = 0.2  
+4. green fractal lights in fog abstract wall art canvas, 6 panels, 90-100

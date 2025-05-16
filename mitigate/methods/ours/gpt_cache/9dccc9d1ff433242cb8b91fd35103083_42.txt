@@ -1,0 +1,4 @@
+1. watch nbc's trailer, weight = 0.4  
+2. Watch the trailer for nbc's *Constantine* show, weight = 0.3  
+3. Trailer viewing for NBC's series *Constantine*, weight = 0.3  
+4. Watch the trailer for NBC's *Constantine*, 85-100  

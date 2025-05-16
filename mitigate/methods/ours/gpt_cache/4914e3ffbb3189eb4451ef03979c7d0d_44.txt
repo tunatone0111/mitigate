@@ -1,0 +1,4 @@
+1. eyelet curtain in collection, weight = 0.3  
+2. blackout curtain in series, fabric 269-99, weight = 0.3  
+3. blackout eyelet curtain in collection, fabric sample 269-99, weight = 0.4  
+4. blackout eyelet curtain in collection blackout, fabric 269-99, 85-100  

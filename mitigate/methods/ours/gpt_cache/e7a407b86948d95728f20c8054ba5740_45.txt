@@ -1,0 +1,4 @@
+1. travel bag model 9800, weight = 0.5  
+2. Rig 9800 bag from a different angle, weight = 0.3  
+3. Rig 9800 travel case view three, weight = 0.2  
+4. Rig 9800 Travel Bag - View 3, 90-100  

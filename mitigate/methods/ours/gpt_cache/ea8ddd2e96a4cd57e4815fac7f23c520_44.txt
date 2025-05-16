@@ -1,0 +1,4 @@
+1. Daft Punk and Jay Z working together on music, weight = 0.4  
+2. Collaboration between Daft Punk and Jay Z on a song called 'Computerized', weight = 0.3  
+3. Daft Punk teams up with Jay Z for 'Computerized', weight = 0.3  
+4. Daft Punk, Jay Z collaborate on "Computerized", 90-100  

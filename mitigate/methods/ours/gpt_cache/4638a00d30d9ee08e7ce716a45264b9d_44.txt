@@ -1,0 +1,4 @@
+1. Shaw floors cozy carpet collection, weight = 0.3  
+2. Shaw floors offering waters edge carpet, weight = 0.3  
+3. Value collections by shaw, cozy harbor net waters edge, weight = 0.4  
+4. shaw floors value collections cozy harbor I net waters edge, 90-100

@@ -1,0 +1,6 @@
+Sure, here's how we can break down the prompt with gradual restoration and weights:
+
+1. special flooring by Shaw, weight = 0.4
+2. Shaw’s floor roll special called xv863, weight = 0.3
+3. Shaw Floors introduces roll special XV863 Bare Mineral, weight = 0.3
+4. Shaw Floors Roll Special Xv863 Bare Mineral 00105_XV863, 90-100

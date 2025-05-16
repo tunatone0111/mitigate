@@ -1,0 +1,6 @@
+### Output:
+
+1. Shaw floors product in French Linen color, weight = 0.3
+2. enduring comfort style by shaw in French linen, weight = 0.3
+3. Shaw Floors featuring the enduring comfort i with French linen color, weight = 0.4
+4. Shaw Floors enduring comfort I French Linen 00103_E0341, 85-100

@@ -1,0 +1,4 @@
+1. fabric collection with room-darkening curtains, weight = 0.3  
+2. blackout curtains pencil design in collection, weight = 0.4  
+3. Pencil pleat curtains in blackout fabric collection, weight = 0.3  
+4. pencil pleat curtains in collection blackout, fabric 269-12, 80-100  

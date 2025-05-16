@@ -1,0 +1,4 @@
+1. Passionate discussions, weight = 0.4  
+2. Podcasting for profit, weight = 0.3  
+3. Passionate podcast leading to profit, weight = 0.3  
+4. Passion. Podcast. Earning, 90-100  

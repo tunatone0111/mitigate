@@ -1,0 +1,4 @@
+1. the goldfinch by donna tartt becoming a movie, weight = 0.4  
+2. Film adaptation of Donna Tartt's novel “The Goldfinch”, weight = 0.3  
+3. Donna Tartt's the Goldfinch being adapted into a film, weight = 0.3  
+4. Donna Tartt’s <i>The Goldfinch</i> receives film adaptation, 85-100  

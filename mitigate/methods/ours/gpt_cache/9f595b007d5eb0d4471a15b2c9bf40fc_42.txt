@@ -1,0 +1,4 @@
+1. mother's impact on a young hippopotamus, weight = 0.4  
+2. influences of a mother hippo on its young, weight = 0.3  
+3. maternal role in shaping a young hippo, weight = 0.3  
+4. mother's influence on her young hippo, 85-100  

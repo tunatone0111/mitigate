@@ -1,0 +1,4 @@
+1. shaw floors fusion series, weight = 0.4  
+2. Shaw Floors Fusion Value 300, weight = 0.3  
+3. Fusion Value 300 canyon shadow by Shaw Floors, weight = 0.3  
+4. Shaw Floors Fusion Value 300 Canyon Shadow 00810_E0281, 85-100
