@@ -16,7 +16,11 @@ def GPT4_Rare2Frequent(prompt, cache_idx, cache_dir, seed):
     if os.path.exists(f"{cache_dir}/{cache_idx}_{seed}.txt"):
         with open(f"{cache_dir}/{cache_idx}_{seed}.txt", "r") as f:
             result = f.read()
-        return result
+        try:
+            parse_weighted_prompt_format(result)
+            return result
+        except Exception:
+            pass
 
     url = "https://api.openai.com/v1/chat/completions"
 
@@ -32,16 +36,6 @@ def GPT4_Rare2Frequent(prompt, cache_idx, cache_dir, seed):
     prompt_user = f"### Input: {prompt}\n### Output: \n"
     prompt_user = f"{template_user}\n\n{prompt_user}"
 
-    payload = json.dumps(
-        {
-            "model": "gpt-4o",
-            "messages": [
-                {"role": "system", "content": prompt_system},
-                {"role": "user", "content": prompt_user},
-            ],
-            "seed": seed,
-        }
-    )
     headers = {
         "Accept": "application/json",
         "Authorization": f"Bearer {os.environ['OPENAI_API_KEY']}",
@@ -54,16 +48,26 @@ def GPT4_Rare2Frequent(prompt, cache_idx, cache_dir, seed):
 
     while not success and trial < 5:
         try:
+            payload = json.dumps(
+                {
+                    "model": "gpt-4o",
+                    "messages": [
+                        {"role": "system", "content": prompt_system},
+                        {"role": "user", "content": prompt_user},
+                    ],
+                    "seed": seed + 10 * trial,
+                }
+            )
             response = requests.request("POST", url, headers=headers, data=payload)
+            obj = response.json()
+            text = obj["choices"][0]["message"]["content"]
+            prompts, step_ranges, weights = parse_weighted_prompt_format(text)
             success = True
         except Exception as e:
             print(e)
             trial += 1
             time.sleep(10)
     time.sleep(1)
-
-    obj = response.json()
-    text = obj["choices"][0]["message"]["content"]
 
     with open(f"{cache_dir}/{cache_idx}_{seed}.txt", "w") as f:
         f.write(text)
@@ -212,7 +216,11 @@ class Ours(MitigationMethod):
         if self.gpt_only:
             return
 
-        prompts, step_ranges, weights = parse_weighted_prompt_format(gpt_output)
+        try:
+            prompts, step_ranges, weights = parse_weighted_prompt_format(gpt_output)
+        except Exception as e:
+            print(e)
+            return
 
         image = sample_weighted_prompt(
             pipe=self.pipe,
